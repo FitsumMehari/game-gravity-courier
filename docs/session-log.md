@@ -5,3 +5,4 @@
 - note: third-person camera distance (day 2)
 - playtest: package stress jolt curve (day 2)
 - test: spawn slab ray resolve (day 3)
+- ui: gravity lock roof tint (day 3)
