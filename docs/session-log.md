@@ -9,3 +9,4 @@
 - note: gravity lock roof tint (day 3)
 - debug: package stress jolt curve (day 3)
 - debug: spawn slab ray resolve (day 3)
+- tweak: delivery ring visibility (day 3)
