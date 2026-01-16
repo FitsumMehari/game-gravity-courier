@@ -10,3 +10,4 @@
 - debug: package stress jolt curve (day 3)
 - debug: spawn slab ray resolve (day 3)
 - tweak: delivery ring visibility (day 3)
+- polish: movement basis pitch project (day 3)
