@@ -4,3 +4,4 @@
 - tweak: pickup bob along worldUp (day 2)
 - note: third-person camera distance (day 2)
 - playtest: package stress jolt curve (day 2)
+- test: spawn slab ray resolve (day 3)
