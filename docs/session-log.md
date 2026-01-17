@@ -19,3 +19,4 @@
 - ui: gravity lock roof tint (day 4)
 - ui: ACES tone map exposure (day 4)
 - balance: coyote jump window (day 4)
+- debug: stress bar HUD timing (day 4)
