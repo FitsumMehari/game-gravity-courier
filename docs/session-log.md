@@ -15,3 +15,4 @@
 - balance: third-person camera distance (day 4)
 - test: pointer lock + pause (day 4)
 - balance: pointer lock + pause (day 4)
+- refactor: ground probe vs tilted up (day 4)
