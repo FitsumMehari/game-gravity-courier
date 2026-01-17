@@ -13,3 +13,4 @@
 - polish: movement basis pitch project (day 3)
 - playtest: Pages workflow branch (day 3)
 - balance: third-person camera distance (day 4)
+- test: pointer lock + pause (day 4)
