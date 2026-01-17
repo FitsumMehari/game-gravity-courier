@@ -14,3 +14,4 @@
 - playtest: Pages workflow branch (day 3)
 - balance: third-person camera distance (day 4)
 - test: pointer lock + pause (day 4)
+- balance: pointer lock + pause (day 4)
