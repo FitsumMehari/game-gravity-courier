@@ -17,3 +17,4 @@
 - balance: pointer lock + pause (day 4)
 - refactor: ground probe vs tilted up (day 4)
 - ui: gravity lock roof tint (day 4)
+- ui: ACES tone map exposure (day 4)
