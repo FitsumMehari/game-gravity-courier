@@ -18,3 +18,4 @@
 - refactor: ground probe vs tilted up (day 4)
 - ui: gravity lock roof tint (day 4)
 - ui: ACES tone map exposure (day 4)
+- balance: coyote jump window (day 4)
