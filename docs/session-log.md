@@ -20,3 +20,4 @@
 - ui: ACES tone map exposure (day 4)
 - balance: coyote jump window (day 4)
 - debug: stress bar HUD timing (day 4)
+- balance: third-person camera distance (day 4)
