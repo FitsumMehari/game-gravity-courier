@@ -26,3 +26,4 @@
 - playtest: replay localStorage key (day 5)
 - wip: spawn slab ray resolve (day 5)
 - tweak: coyote jump window (day 5)
+- refactor: pickup bob along worldUp (day 5)
