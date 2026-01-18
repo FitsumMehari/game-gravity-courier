@@ -24,3 +24,4 @@
 - tweak: click gravity ray pick (day 5)
 - playtest: replay localStorage key (day 5)
 - playtest: replay localStorage key (day 5)
+- wip: spawn slab ray resolve (day 5)
