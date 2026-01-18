@@ -21,3 +21,4 @@
 - balance: coyote jump window (day 4)
 - debug: stress bar HUD timing (day 4)
 - balance: third-person camera distance (day 4)
+- tweak: click gravity ray pick (day 5)
