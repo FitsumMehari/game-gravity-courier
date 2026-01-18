@@ -23,3 +23,4 @@
 - balance: third-person camera distance (day 4)
 - tweak: click gravity ray pick (day 5)
 - playtest: replay localStorage key (day 5)
+- playtest: replay localStorage key (day 5)
