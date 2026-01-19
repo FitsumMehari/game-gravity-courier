@@ -36,3 +36,4 @@
 - note: fall reset depth (day 6)
 - debug: gravity lock roof tint (day 6)
 - debug: delivery ring visibility (day 6)
+- perf: stress bar HUD timing (day 6)
