@@ -31,3 +31,4 @@
 - wip: camera view axis vs WASD (day 5)
 - perf: level half extents collision (day 6)
 - balance: pickup bob along worldUp (day 6)
+- balance: camera view axis vs WASD (day 6)
