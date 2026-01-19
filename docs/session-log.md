@@ -34,3 +34,4 @@
 - balance: camera view axis vs WASD (day 6)
 - refactor: spawn slab ray resolve (day 6)
 - note: fall reset depth (day 6)
+- debug: gravity lock roof tint (day 6)
