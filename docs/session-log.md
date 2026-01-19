@@ -29,3 +29,4 @@
 - refactor: pickup bob along worldUp (day 5)
 - perf: stress bar HUD timing (day 5)
 - wip: camera view axis vs WASD (day 5)
+- perf: level half extents collision (day 6)
