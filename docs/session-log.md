@@ -32,3 +32,4 @@
 - perf: level half extents collision (day 6)
 - balance: pickup bob along worldUp (day 6)
 - balance: camera view axis vs WASD (day 6)
+- refactor: spawn slab ray resolve (day 6)
