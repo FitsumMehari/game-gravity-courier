@@ -33,3 +33,4 @@
 - balance: pickup bob along worldUp (day 6)
 - balance: camera view axis vs WASD (day 6)
 - refactor: spawn slab ray resolve (day 6)
+- note: fall reset depth (day 6)
