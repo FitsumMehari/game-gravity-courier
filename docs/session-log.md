@@ -37,3 +37,4 @@
 - debug: gravity lock roof tint (day 6)
 - debug: delivery ring visibility (day 6)
 - perf: stress bar HUD timing (day 6)
+- ui: replay localStorage key (day 7)
