@@ -44,3 +44,4 @@
 - balance: pointer lock + pause (day 7)
 - balance: gravity lock roof tint (day 7)
 - test: click gravity ray pick (day 7)
+- refactor: replay localStorage key (day 7)
