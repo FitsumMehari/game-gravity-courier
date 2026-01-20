@@ -42,3 +42,4 @@
 - polish: package stress jolt curve (day 7)
 - perf: level half extents collision (day 7)
 - balance: pointer lock + pause (day 7)
+- balance: gravity lock roof tint (day 7)
