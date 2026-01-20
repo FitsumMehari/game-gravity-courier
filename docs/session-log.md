@@ -40,3 +40,4 @@
 - ui: replay localStorage key (day 7)
 - balance: delivery ring visibility (day 7)
 - polish: package stress jolt curve (day 7)
+- perf: level half extents collision (day 7)
