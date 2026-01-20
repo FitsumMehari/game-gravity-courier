@@ -43,3 +43,4 @@
 - perf: level half extents collision (day 7)
 - balance: pointer lock + pause (day 7)
 - balance: gravity lock roof tint (day 7)
+- test: click gravity ray pick (day 7)
