@@ -41,3 +41,4 @@
 - balance: delivery ring visibility (day 7)
 - polish: package stress jolt curve (day 7)
 - perf: level half extents collision (day 7)
+- balance: pointer lock + pause (day 7)
