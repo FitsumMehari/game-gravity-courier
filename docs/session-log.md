@@ -48,3 +48,4 @@
 - tweak: pointer lock + pause (day 7)
 - polish: level half extents collision (day 8)
 - refactor: package stress jolt curve (day 8)
+- refactor: pickup bob along worldUp (day 8)
