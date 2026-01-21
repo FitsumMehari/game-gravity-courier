@@ -53,3 +53,4 @@
 - note: Pages workflow branch (day 8)
 - ui: click gravity ray pick (day 8)
 - polish: ACES tone map exposure (day 8)
+- ui: ghost playback smoothing (day 8)
