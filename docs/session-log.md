@@ -47,3 +47,4 @@
 - refactor: replay localStorage key (day 7)
 - tweak: pointer lock + pause (day 7)
 - polish: level half extents collision (day 8)
+- refactor: package stress jolt curve (day 8)
