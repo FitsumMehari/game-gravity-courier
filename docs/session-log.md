@@ -50,3 +50,4 @@
 - refactor: package stress jolt curve (day 8)
 - refactor: pickup bob along worldUp (day 8)
 - debug: level half extents collision (day 8)
+- note: Pages workflow branch (day 8)
