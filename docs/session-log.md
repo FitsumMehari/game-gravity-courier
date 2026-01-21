@@ -52,3 +52,4 @@
 - debug: level half extents collision (day 8)
 - note: Pages workflow branch (day 8)
 - ui: click gravity ray pick (day 8)
+- polish: ACES tone map exposure (day 8)
