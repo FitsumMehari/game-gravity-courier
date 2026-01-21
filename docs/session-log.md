@@ -46,3 +46,4 @@
 - test: click gravity ray pick (day 7)
 - refactor: replay localStorage key (day 7)
 - tweak: pointer lock + pause (day 7)
+- polish: level half extents collision (day 8)
