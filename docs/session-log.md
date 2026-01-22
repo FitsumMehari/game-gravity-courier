@@ -60,3 +60,4 @@
 - ui: ACES tone map exposure (day 9)
 - tweak: Pages workflow branch (day 9)
 - tweak: strafe handedness fix (day 9)
+- playtest: fall reset depth (day 9)
