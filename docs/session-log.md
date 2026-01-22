@@ -56,3 +56,4 @@
 - ui: ghost playback smoothing (day 8)
 - ui: gravity lock roof tint (day 9)
 - wip: gravity lock roof tint (day 9)
+- debug: stress bar HUD timing (day 9)
