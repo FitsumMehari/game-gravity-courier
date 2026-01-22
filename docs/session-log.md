@@ -59,3 +59,4 @@
 - debug: stress bar HUD timing (day 9)
 - ui: ACES tone map exposure (day 9)
 - tweak: Pages workflow branch (day 9)
+- tweak: strafe handedness fix (day 9)
