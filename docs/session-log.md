@@ -54,3 +54,4 @@
 - ui: click gravity ray pick (day 8)
 - polish: ACES tone map exposure (day 8)
 - ui: ghost playback smoothing (day 8)
+- ui: gravity lock roof tint (day 9)
