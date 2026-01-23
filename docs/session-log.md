@@ -66,3 +66,4 @@
 - playtest: strafe handedness fix (day 10)
 - note: stress bar HUD timing (day 10)
 - debug: replay localStorage key (day 10)
+- perf: pickup bob along worldUp (day 10)
