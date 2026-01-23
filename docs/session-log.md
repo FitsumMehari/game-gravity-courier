@@ -62,3 +62,4 @@
 - tweak: strafe handedness fix (day 9)
 - playtest: fall reset depth (day 9)
 - wip: fall reset depth (day 9)
+- ui: coyote jump window (day 10)
