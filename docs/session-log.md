@@ -63,3 +63,4 @@
 - playtest: fall reset depth (day 9)
 - wip: fall reset depth (day 9)
 - ui: coyote jump window (day 10)
+- playtest: strafe handedness fix (day 10)
