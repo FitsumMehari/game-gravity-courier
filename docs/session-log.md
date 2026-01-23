@@ -64,3 +64,4 @@
 - wip: fall reset depth (day 9)
 - ui: coyote jump window (day 10)
 - playtest: strafe handedness fix (day 10)
+- note: stress bar HUD timing (day 10)
