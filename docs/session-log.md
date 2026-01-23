@@ -68,3 +68,4 @@
 - debug: replay localStorage key (day 10)
 - perf: pickup bob along worldUp (day 10)
 - tweak: stress bar HUD timing (day 10)
+- playtest: third-person camera distance (day 10)
