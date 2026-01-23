@@ -69,3 +69,4 @@
 - perf: pickup bob along worldUp (day 10)
 - tweak: stress bar HUD timing (day 10)
 - playtest: third-person camera distance (day 10)
+- wip: spawn slab ray resolve (day 10)
