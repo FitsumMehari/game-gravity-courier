@@ -73,3 +73,4 @@
 - playtest: pickup bob along worldUp (day 10)
 - debug: spawn slab ray resolve (day 11)
 - ui: gravity lock roof tint (day 11)
+- perf: click gravity ray pick (day 11)
