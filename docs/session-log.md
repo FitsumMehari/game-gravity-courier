@@ -76,3 +76,4 @@
 - perf: click gravity ray pick (day 11)
 - playtest: ground probe vs tilted up (day 11)
 - debug: ACES tone map exposure (day 11)
+- wip: camera view axis vs WASD (day 11)
