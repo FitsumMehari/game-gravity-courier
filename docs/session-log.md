@@ -71,3 +71,4 @@
 - playtest: third-person camera distance (day 10)
 - wip: spawn slab ray resolve (day 10)
 - playtest: pickup bob along worldUp (day 10)
+- debug: spawn slab ray resolve (day 11)
