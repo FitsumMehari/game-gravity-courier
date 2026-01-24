@@ -72,3 +72,4 @@
 - wip: spawn slab ray resolve (day 10)
 - playtest: pickup bob along worldUp (day 10)
 - debug: spawn slab ray resolve (day 11)
+- ui: gravity lock roof tint (day 11)
