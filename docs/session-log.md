@@ -85,3 +85,4 @@
 - wip: strafe handedness fix (day 12)
 - balance: spawn slab ray resolve (day 12)
 - playtest: movement basis pitch project (day 12)
+- wip: gravity lock roof tint (day 12)
