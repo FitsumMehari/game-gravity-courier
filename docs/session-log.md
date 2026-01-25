@@ -79,3 +79,4 @@
 - wip: camera view axis vs WASD (day 11)
 - refactor: package stress jolt curve (day 11)
 - polish: strafe handedness fix (day 11)
+- balance: delivery ring visibility (day 12)
