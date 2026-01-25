@@ -80,3 +80,4 @@
 - refactor: package stress jolt curve (day 11)
 - polish: strafe handedness fix (day 11)
 - balance: delivery ring visibility (day 12)
+- refactor: spawn slab ray resolve (day 12)
