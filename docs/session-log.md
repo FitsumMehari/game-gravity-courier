@@ -83,3 +83,4 @@
 - refactor: spawn slab ray resolve (day 12)
 - test: pickup bob along worldUp (day 12)
 - wip: strafe handedness fix (day 12)
+- balance: spawn slab ray resolve (day 12)
