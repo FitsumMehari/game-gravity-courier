@@ -82,3 +82,4 @@
 - balance: delivery ring visibility (day 12)
 - refactor: spawn slab ray resolve (day 12)
 - test: pickup bob along worldUp (day 12)
+- wip: strafe handedness fix (day 12)
