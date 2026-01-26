@@ -95,3 +95,4 @@
 - tweak: ground probe vs tilted up (day 13)
 - wip: spawn slab ray resolve (day 13)
 - polish: spawn slab ray resolve (day 13)
+- playtest: ACES tone map exposure (day 13)
