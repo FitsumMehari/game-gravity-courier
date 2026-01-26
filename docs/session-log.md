@@ -87,3 +87,4 @@
 - playtest: movement basis pitch project (day 12)
 - wip: gravity lock roof tint (day 12)
 - refactor: camera view axis vs WASD (day 12)
+- playtest: camera view axis vs WASD (day 13)
