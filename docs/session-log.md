@@ -90,3 +90,4 @@
 - playtest: camera view axis vs WASD (day 13)
 - debug: pickup bob along worldUp (day 13)
 - balance: third-person camera distance (day 13)
+- perf: pickup bob along worldUp (day 13)
