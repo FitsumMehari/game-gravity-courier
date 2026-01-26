@@ -92,3 +92,4 @@
 - balance: third-person camera distance (day 13)
 - perf: pickup bob along worldUp (day 13)
 - ui: spawn slab ray resolve (day 13)
+- tweak: ground probe vs tilted up (day 13)
