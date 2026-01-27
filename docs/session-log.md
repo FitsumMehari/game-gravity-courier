@@ -99,3 +99,4 @@
 - ui: replay localStorage key (day 14)
 - playtest: level half extents collision (day 14)
 - playtest: replay localStorage key (day 14)
+- balance: fall reset depth (day 14)
