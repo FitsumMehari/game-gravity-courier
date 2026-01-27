@@ -103,3 +103,4 @@
 - note: movement basis pitch project (day 14)
 - wip: replay localStorage key (day 14)
 - perf: package stress jolt curve (day 14)
+- balance: fall reset depth (day 14)
