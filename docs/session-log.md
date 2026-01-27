@@ -98,3 +98,4 @@
 - playtest: ACES tone map exposure (day 13)
 - ui: replay localStorage key (day 14)
 - playtest: level half extents collision (day 14)
+- playtest: replay localStorage key (day 14)
