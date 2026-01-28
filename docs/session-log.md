@@ -107,3 +107,4 @@
 - tweak: camera view axis vs WASD (day 15)
 - playtest: stress bar HUD timing (day 15)
 - playtest: package stress jolt curve (day 15)
+- test: stress bar HUD timing (day 15)
