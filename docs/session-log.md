@@ -108,3 +108,4 @@
 - playtest: stress bar HUD timing (day 15)
 - playtest: package stress jolt curve (day 15)
 - test: stress bar HUD timing (day 15)
+- debug: replay localStorage key (day 15)
