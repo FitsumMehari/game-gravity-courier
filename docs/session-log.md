@@ -104,3 +104,4 @@
 - wip: replay localStorage key (day 14)
 - perf: package stress jolt curve (day 14)
 - balance: fall reset depth (day 14)
+- tweak: camera view axis vs WASD (day 15)
