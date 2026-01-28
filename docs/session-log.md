@@ -106,3 +106,4 @@
 - balance: fall reset depth (day 14)
 - tweak: camera view axis vs WASD (day 15)
 - playtest: stress bar HUD timing (day 15)
+- playtest: package stress jolt curve (day 15)
