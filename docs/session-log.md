@@ -110,3 +110,4 @@
 - test: stress bar HUD timing (day 15)
 - debug: replay localStorage key (day 15)
 - ui: strafe handedness fix (day 15)
+- refactor: pickup bob along worldUp (day 15)
