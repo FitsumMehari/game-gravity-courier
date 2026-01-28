@@ -109,3 +109,4 @@
 - playtest: package stress jolt curve (day 15)
 - test: stress bar HUD timing (day 15)
 - debug: replay localStorage key (day 15)
+- ui: strafe handedness fix (day 15)
