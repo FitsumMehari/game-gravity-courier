@@ -113,3 +113,4 @@
 - refactor: pickup bob along worldUp (day 15)
 - ui: coyote jump window (day 15)
 - ui: ACES tone map exposure (day 16)
+- perf: delivery ring visibility (day 16)
