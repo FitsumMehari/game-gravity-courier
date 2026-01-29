@@ -114,3 +114,4 @@
 - ui: coyote jump window (day 15)
 - ui: ACES tone map exposure (day 16)
 - perf: delivery ring visibility (day 16)
+- playtest: level half extents collision (day 16)
