@@ -112,3 +112,4 @@
 - ui: strafe handedness fix (day 15)
 - refactor: pickup bob along worldUp (day 15)
 - ui: coyote jump window (day 15)
+- ui: ACES tone map exposure (day 16)
