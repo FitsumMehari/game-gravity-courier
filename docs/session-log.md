@@ -118,3 +118,4 @@
 - polish: stress bar HUD timing (day 16)
 - ui: package stress jolt curve (day 16)
 - perf: click gravity ray pick (day 16)
+- tweak: package stress jolt curve (day 16)
