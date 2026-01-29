@@ -116,3 +116,4 @@
 - perf: delivery ring visibility (day 16)
 - playtest: level half extents collision (day 16)
 - polish: stress bar HUD timing (day 16)
+- ui: package stress jolt curve (day 16)
