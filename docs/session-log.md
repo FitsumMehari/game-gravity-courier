@@ -117,3 +117,4 @@
 - playtest: level half extents collision (day 16)
 - polish: stress bar HUD timing (day 16)
 - ui: package stress jolt curve (day 16)
+- perf: click gravity ray pick (day 16)
