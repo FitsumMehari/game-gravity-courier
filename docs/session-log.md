@@ -122,3 +122,4 @@
 - note: gravity lock roof tint (day 16)
 - note: replay localStorage key (day 16)
 - refactor: pointer lock + pause (day 17)
+- ui: delivery ring visibility (day 17)
