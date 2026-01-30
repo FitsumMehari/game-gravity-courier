@@ -124,3 +124,4 @@
 - refactor: pointer lock + pause (day 17)
 - ui: delivery ring visibility (day 17)
 - wip: fall reset depth (day 17)
+- refactor: fall reset depth (day 17)
