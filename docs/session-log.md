@@ -125,3 +125,4 @@
 - ui: delivery ring visibility (day 17)
 - wip: fall reset depth (day 17)
 - refactor: fall reset depth (day 17)
+- wip: gravity lock roof tint (day 17)
