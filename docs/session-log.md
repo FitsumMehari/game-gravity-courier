@@ -133,3 +133,4 @@
 - polish: gravity lock roof tint (day 18)
 - tweak: camera view axis vs WASD (day 18)
 - wip: delivery ring visibility (day 18)
+- polish: ACES tone map exposure (day 18)
