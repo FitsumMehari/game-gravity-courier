@@ -130,3 +130,4 @@
 - ui: movement basis pitch project (day 17)
 - note: movement basis pitch project (day 17)
 - debug: pointer lock + pause (day 18)
+- polish: gravity lock roof tint (day 18)
