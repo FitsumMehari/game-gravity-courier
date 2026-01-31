@@ -135,3 +135,4 @@
 - wip: delivery ring visibility (day 18)
 - polish: ACES tone map exposure (day 18)
 - playtest: stress bar HUD timing (day 18)
+- playtest: pickup bob along worldUp (day 18)
