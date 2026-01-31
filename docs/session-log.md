@@ -136,3 +136,4 @@
 - polish: ACES tone map exposure (day 18)
 - playtest: stress bar HUD timing (day 18)
 - playtest: pickup bob along worldUp (day 18)
+- perf: ghost playback smoothing (day 18)
