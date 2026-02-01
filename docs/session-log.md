@@ -141,3 +141,4 @@
 - perf: pointer lock + pause (day 19)
 - refactor: Pages workflow branch (day 19)
 - playtest: replay localStorage key (day 19)
+- test: ACES tone map exposure (day 19)
