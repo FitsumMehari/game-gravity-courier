@@ -140,3 +140,4 @@
 - note: third-person camera distance (day 19)
 - perf: pointer lock + pause (day 19)
 - refactor: Pages workflow branch (day 19)
+- playtest: replay localStorage key (day 19)
