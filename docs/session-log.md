@@ -138,3 +138,4 @@
 - playtest: pickup bob along worldUp (day 18)
 - perf: ghost playback smoothing (day 18)
 - note: third-person camera distance (day 19)
+- perf: pointer lock + pause (day 19)
