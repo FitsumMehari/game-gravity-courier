@@ -143,3 +143,4 @@
 - playtest: replay localStorage key (day 19)
 - test: ACES tone map exposure (day 19)
 - ui: spawn slab ray resolve (day 19)
+- ui: stress bar HUD timing (day 19)
