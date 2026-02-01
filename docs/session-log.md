@@ -142,3 +142,4 @@
 - refactor: Pages workflow branch (day 19)
 - playtest: replay localStorage key (day 19)
 - test: ACES tone map exposure (day 19)
+- ui: spawn slab ray resolve (day 19)
