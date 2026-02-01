@@ -145,3 +145,4 @@
 - ui: spawn slab ray resolve (day 19)
 - ui: stress bar HUD timing (day 19)
 - debug: click gravity ray pick (day 19)
+- wip: fall reset depth (day 19)
