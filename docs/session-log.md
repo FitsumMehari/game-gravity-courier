@@ -153,3 +153,4 @@
 - test: delivery ring visibility (day 20)
 - tweak: Pages workflow branch (day 20)
 - polish: third-person camera distance (day 20)
+- note: replay localStorage key (day 20)
