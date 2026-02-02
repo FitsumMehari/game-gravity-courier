@@ -150,3 +150,4 @@
 - tweak: spawn slab ray resolve (day 20)
 - refactor: Pages workflow branch (day 20)
 - test: coyote jump window (day 20)
+- test: delivery ring visibility (day 20)
