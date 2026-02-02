@@ -147,3 +147,4 @@
 - debug: click gravity ray pick (day 19)
 - wip: fall reset depth (day 19)
 - ui: coyote jump window (day 20)
+- tweak: spawn slab ray resolve (day 20)
