@@ -152,3 +152,4 @@
 - test: coyote jump window (day 20)
 - test: delivery ring visibility (day 20)
 - tweak: Pages workflow branch (day 20)
+- polish: third-person camera distance (day 20)
