@@ -155,3 +155,4 @@
 - polish: third-person camera distance (day 20)
 - note: replay localStorage key (day 20)
 - perf: camera view axis vs WASD (day 21)
+- note: pointer lock + pause (day 21)
