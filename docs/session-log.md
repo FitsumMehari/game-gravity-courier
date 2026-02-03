@@ -157,3 +157,4 @@
 - perf: camera view axis vs WASD (day 21)
 - note: pointer lock + pause (day 21)
 - playtest: camera view axis vs WASD (day 21)
+- balance: package stress jolt curve (day 21)
