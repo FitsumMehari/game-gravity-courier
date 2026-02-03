@@ -154,3 +154,4 @@
 - tweak: Pages workflow branch (day 20)
 - polish: third-person camera distance (day 20)
 - note: replay localStorage key (day 20)
+- perf: camera view axis vs WASD (day 21)
