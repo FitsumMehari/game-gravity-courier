@@ -160,3 +160,4 @@
 - balance: package stress jolt curve (day 21)
 - perf: ghost playback smoothing (day 21)
 - refactor: spawn slab ray resolve (day 21)
+- debug: camera view axis vs WASD (day 21)
