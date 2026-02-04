@@ -164,3 +164,4 @@
 - ui: coyote jump window (day 21)
 - playtest: replay localStorage key (day 22)
 - playtest: coyote jump window (day 22)
+- note: pointer lock + pause (day 22)
