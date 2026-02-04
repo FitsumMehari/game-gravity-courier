@@ -169,3 +169,4 @@
 - ui: replay localStorage key (day 22)
 - test: third-person camera distance (day 22)
 - tweak: package stress jolt curve (day 22)
+- ui: camera view axis vs WASD (day 22)
