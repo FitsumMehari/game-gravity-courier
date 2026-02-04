@@ -167,3 +167,4 @@
 - note: pointer lock + pause (day 22)
 - tweak: strafe handedness fix (day 22)
 - ui: replay localStorage key (day 22)
+- test: third-person camera distance (day 22)
