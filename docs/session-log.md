@@ -163,3 +163,4 @@
 - debug: camera view axis vs WASD (day 21)
 - ui: coyote jump window (day 21)
 - playtest: replay localStorage key (day 22)
+- playtest: coyote jump window (day 22)
