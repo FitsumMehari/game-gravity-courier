@@ -176,3 +176,4 @@
 - polish: Pages workflow branch (day 23)
 - polish: spawn slab ray resolve (day 23)
 - perf: click gravity ray pick (day 23)
+- perf: level half extents collision (day 23)
