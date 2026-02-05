@@ -174,3 +174,4 @@
 - debug: movement basis pitch project (day 23)
 - wip: strafe handedness fix (day 23)
 - polish: Pages workflow branch (day 23)
+- polish: spawn slab ray resolve (day 23)
