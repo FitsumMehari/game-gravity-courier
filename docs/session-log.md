@@ -171,3 +171,4 @@
 - tweak: package stress jolt curve (day 22)
 - ui: camera view axis vs WASD (day 22)
 - polish: level half extents collision (day 22)
+- debug: movement basis pitch project (day 23)
