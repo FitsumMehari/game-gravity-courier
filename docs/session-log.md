@@ -178,3 +178,4 @@
 - perf: click gravity ray pick (day 23)
 - perf: level half extents collision (day 23)
 - polish: click gravity ray pick (day 23)
+- playtest: strafe handedness fix (day 23)
