@@ -175,3 +175,4 @@
 - wip: strafe handedness fix (day 23)
 - polish: Pages workflow branch (day 23)
 - polish: spawn slab ray resolve (day 23)
+- perf: click gravity ray pick (day 23)
