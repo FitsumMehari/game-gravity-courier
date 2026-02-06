@@ -184,3 +184,4 @@
 - ui: third-person camera distance (day 24)
 - perf: Pages workflow branch (day 24)
 - refactor: coyote jump window (day 24)
+- perf: pickup bob along worldUp (day 24)
