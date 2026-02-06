@@ -181,3 +181,4 @@
 - playtest: strafe handedness fix (day 23)
 - refactor: coyote jump window (day 24)
 - wip: pointer lock + pause (day 24)
+- ui: third-person camera distance (day 24)
