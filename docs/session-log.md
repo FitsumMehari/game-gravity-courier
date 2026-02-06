@@ -186,3 +186,4 @@
 - refactor: coyote jump window (day 24)
 - perf: pickup bob along worldUp (day 24)
 - note: camera view axis vs WASD (day 24)
+- wip: third-person camera distance (day 24)
