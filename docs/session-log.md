@@ -180,3 +180,4 @@
 - polish: click gravity ray pick (day 23)
 - playtest: strafe handedness fix (day 23)
 - refactor: coyote jump window (day 24)
+- wip: pointer lock + pause (day 24)
