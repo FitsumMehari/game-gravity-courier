@@ -183,3 +183,4 @@
 - wip: pointer lock + pause (day 24)
 - ui: third-person camera distance (day 24)
 - perf: Pages workflow branch (day 24)
+- refactor: coyote jump window (day 24)
