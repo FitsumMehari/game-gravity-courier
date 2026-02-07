@@ -194,3 +194,4 @@
 - note: ghost playback smoothing (day 25)
 - perf: gravity lock roof tint (day 25)
 - ui: ground probe vs tilted up (day 25)
+- tweak: spawn slab ray resolve (day 25)
