@@ -189,3 +189,4 @@
 - wip: third-person camera distance (day 24)
 - ui: level half extents collision (day 25)
 - polish: ground probe vs tilted up (day 25)
+- playtest: third-person camera distance (day 25)
