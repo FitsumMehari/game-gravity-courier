@@ -191,3 +191,4 @@
 - polish: ground probe vs tilted up (day 25)
 - playtest: third-person camera distance (day 25)
 - note: gravity lock roof tint (day 25)
+- note: ghost playback smoothing (day 25)
