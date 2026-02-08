@@ -198,3 +198,4 @@
 - note: pickup bob along worldUp (day 25)
 - perf: stress bar HUD timing (day 26)
 - refactor: pickup bob along worldUp (day 26)
+- wip: fall reset depth (day 26)
