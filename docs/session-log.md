@@ -203,3 +203,4 @@
 - ui: replay localStorage key (day 26)
 - polish: stress bar HUD timing (day 26)
 - perf: level half extents collision (day 26)
+- wip: click gravity ray pick (day 26)
