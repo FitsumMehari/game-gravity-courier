@@ -199,3 +199,4 @@
 - perf: stress bar HUD timing (day 26)
 - refactor: pickup bob along worldUp (day 26)
 - wip: fall reset depth (day 26)
+- tweak: ground probe vs tilted up (day 26)
