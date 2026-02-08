@@ -201,3 +201,4 @@
 - wip: fall reset depth (day 26)
 - tweak: ground probe vs tilted up (day 26)
 - ui: replay localStorage key (day 26)
+- polish: stress bar HUD timing (day 26)
