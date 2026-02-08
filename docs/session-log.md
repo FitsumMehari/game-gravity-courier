@@ -197,3 +197,4 @@
 - tweak: spawn slab ray resolve (day 25)
 - note: pickup bob along worldUp (day 25)
 - perf: stress bar HUD timing (day 26)
+- refactor: pickup bob along worldUp (day 26)
