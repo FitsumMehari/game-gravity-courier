@@ -196,3 +196,4 @@
 - ui: ground probe vs tilted up (day 25)
 - tweak: spawn slab ray resolve (day 25)
 - note: pickup bob along worldUp (day 25)
+- perf: stress bar HUD timing (day 26)
