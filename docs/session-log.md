@@ -205,3 +205,4 @@
 - perf: level half extents collision (day 26)
 - wip: click gravity ray pick (day 26)
 - debug: camera view axis vs WASD (day 27)
+- wip: click gravity ray pick (day 27)
