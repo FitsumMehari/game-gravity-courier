@@ -209,3 +209,4 @@
 - wip: coyote jump window (day 27)
 - perf: third-person camera distance (day 27)
 - balance: spawn slab ray resolve (day 27)
+- wip: stress bar HUD timing (day 27)
