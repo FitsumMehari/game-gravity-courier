@@ -206,3 +206,4 @@
 - wip: click gravity ray pick (day 26)
 - debug: camera view axis vs WASD (day 27)
 - wip: click gravity ray pick (day 27)
+- wip: coyote jump window (day 27)
