@@ -213,3 +213,4 @@
 - balance: Pages workflow branch (day 27)
 - refactor: Pages workflow branch (day 27)
 - playtest: pointer lock + pause (day 28)
+- wip: strafe handedness fix (day 28)
