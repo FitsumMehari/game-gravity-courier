@@ -215,3 +215,4 @@
 - playtest: pointer lock + pause (day 28)
 - wip: strafe handedness fix (day 28)
 - playtest: level half extents collision (day 28)
+- refactor: strafe handedness fix (day 28)
