@@ -218,3 +218,4 @@
 - refactor: strafe handedness fix (day 28)
 - tweak: level half extents collision (day 28)
 - tweak: strafe handedness fix (day 28)
+- playtest: ghost playback smoothing (day 28)
