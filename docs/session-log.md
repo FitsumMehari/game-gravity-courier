@@ -220,3 +220,4 @@
 - tweak: strafe handedness fix (day 28)
 - playtest: ghost playback smoothing (day 28)
 - test: ghost playback smoothing (day 28)
+- perf: ghost playback smoothing (day 28)
