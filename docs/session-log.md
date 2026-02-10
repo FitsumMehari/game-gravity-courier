@@ -214,3 +214,4 @@
 - refactor: Pages workflow branch (day 27)
 - playtest: pointer lock + pause (day 28)
 - wip: strafe handedness fix (day 28)
+- playtest: level half extents collision (day 28)
