@@ -216,3 +216,4 @@
 - wip: strafe handedness fix (day 28)
 - playtest: level half extents collision (day 28)
 - refactor: strafe handedness fix (day 28)
+- tweak: level half extents collision (day 28)
