@@ -225,3 +225,4 @@
 - balance: movement basis pitch project (day 29)
 - debug: movement basis pitch project (day 29)
 - playtest: camera view axis vs WASD (day 29)
+- perf: third-person camera distance (day 29)
