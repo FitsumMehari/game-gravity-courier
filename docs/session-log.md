@@ -228,3 +228,4 @@
 - perf: third-person camera distance (day 29)
 - tweak: gravity lock roof tint (day 29)
 - test: gravity lock roof tint (day 29)
+- playtest: ACES tone map exposure (day 29)
