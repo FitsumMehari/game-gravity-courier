@@ -227,3 +227,4 @@
 - playtest: camera view axis vs WASD (day 29)
 - perf: third-person camera distance (day 29)
 - tweak: gravity lock roof tint (day 29)
+- test: gravity lock roof tint (day 29)
