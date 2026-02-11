@@ -224,3 +224,4 @@
 - debug: package stress jolt curve (day 29)
 - balance: movement basis pitch project (day 29)
 - debug: movement basis pitch project (day 29)
+- playtest: camera view axis vs WASD (day 29)
