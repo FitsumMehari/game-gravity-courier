@@ -221,3 +221,4 @@
 - playtest: ghost playback smoothing (day 28)
 - test: ghost playback smoothing (day 28)
 - perf: ghost playback smoothing (day 28)
+- debug: package stress jolt curve (day 29)
