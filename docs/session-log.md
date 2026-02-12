@@ -230,3 +230,4 @@
 - test: gravity lock roof tint (day 29)
 - playtest: ACES tone map exposure (day 29)
 - note: third-person camera distance (day 30)
+- wip: coyote jump window (day 30)
