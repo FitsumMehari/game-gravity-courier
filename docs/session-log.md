@@ -234,3 +234,4 @@
 - polish: coyote jump window (day 30)
 - note: movement basis pitch project (day 30)
 - tweak: replay localStorage key (day 30)
+- tweak: coyote jump window (day 30)
