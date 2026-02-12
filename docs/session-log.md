@@ -231,3 +231,4 @@
 - playtest: ACES tone map exposure (day 29)
 - note: third-person camera distance (day 30)
 - wip: coyote jump window (day 30)
+- polish: coyote jump window (day 30)
