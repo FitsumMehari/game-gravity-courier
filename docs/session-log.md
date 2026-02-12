@@ -232,3 +232,4 @@
 - note: third-person camera distance (day 30)
 - wip: coyote jump window (day 30)
 - polish: coyote jump window (day 30)
+- note: movement basis pitch project (day 30)
