@@ -229,3 +229,4 @@
 - tweak: gravity lock roof tint (day 29)
 - test: gravity lock roof tint (day 29)
 - playtest: ACES tone map exposure (day 29)
+- note: third-person camera distance (day 30)
