@@ -242,3 +242,4 @@
 - debug: pointer lock + pause (day 31)
 - ui: fall reset depth (day 31)
 - tweak: delivery ring visibility (day 31)
+- debug: package stress jolt curve (day 31)
