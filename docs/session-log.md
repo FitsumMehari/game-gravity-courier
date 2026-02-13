@@ -244,3 +244,4 @@
 - tweak: delivery ring visibility (day 31)
 - debug: package stress jolt curve (day 31)
 - debug: third-person camera distance (day 31)
+- tweak: movement basis pitch project (day 31)
