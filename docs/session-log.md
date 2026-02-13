@@ -238,3 +238,4 @@
 - tweak: ghost playback smoothing (day 30)
 - ui: Pages workflow branch (day 30)
 - test: ACES tone map exposure (day 31)
+- wip: coyote jump window (day 31)
