@@ -250,3 +250,4 @@
 - refactor: click gravity ray pick (day 32)
 - note: package stress jolt curve (day 32)
 - note: strafe handedness fix (day 32)
+- tweak: click gravity ray pick (day 32)
