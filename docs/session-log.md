@@ -246,3 +246,4 @@
 - debug: third-person camera distance (day 31)
 - tweak: movement basis pitch project (day 31)
 - perf: replay localStorage key (day 31)
+- wip: spawn slab ray resolve (day 32)
