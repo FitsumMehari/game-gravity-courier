@@ -253,3 +253,4 @@
 - tweak: click gravity ray pick (day 32)
 - perf: pickup bob along worldUp (day 32)
 - note: ground probe vs tilted up (day 32)
+- playtest: pickup bob along worldUp (day 32)
