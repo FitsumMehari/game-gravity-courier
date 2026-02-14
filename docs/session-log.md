@@ -248,3 +248,4 @@
 - perf: replay localStorage key (day 31)
 - wip: spawn slab ray resolve (day 32)
 - refactor: click gravity ray pick (day 32)
+- note: package stress jolt curve (day 32)
