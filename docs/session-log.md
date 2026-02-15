@@ -255,3 +255,4 @@
 - note: ground probe vs tilted up (day 32)
 - playtest: pickup bob along worldUp (day 32)
 - refactor: camera view axis vs WASD (day 33)
+- note: package stress jolt curve (day 33)
