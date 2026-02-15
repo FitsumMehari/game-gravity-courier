@@ -259,3 +259,4 @@
 - playtest: camera view axis vs WASD (day 33)
 - tweak: package stress jolt curve (day 33)
 - ui: click gravity ray pick (day 33)
+- perf: Pages workflow branch (day 33)
