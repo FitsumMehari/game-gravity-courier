@@ -257,3 +257,4 @@
 - refactor: camera view axis vs WASD (day 33)
 - note: package stress jolt curve (day 33)
 - playtest: camera view axis vs WASD (day 33)
+- tweak: package stress jolt curve (day 33)
