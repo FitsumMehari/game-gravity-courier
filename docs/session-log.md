@@ -264,3 +264,4 @@
 - debug: Pages workflow branch (day 33)
 - debug: spawn slab ray resolve (day 34)
 - playtest: camera view axis vs WASD (day 34)
+- playtest: third-person camera distance (day 34)
