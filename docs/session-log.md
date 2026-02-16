@@ -269,3 +269,4 @@
 - debug: ground probe vs tilted up (day 34)
 - ui: replay localStorage key (day 34)
 - note: level half extents collision (day 34)
+- perf: package stress jolt curve (day 34)
