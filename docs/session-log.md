@@ -270,3 +270,4 @@
 - ui: replay localStorage key (day 34)
 - note: level half extents collision (day 34)
 - perf: package stress jolt curve (day 34)
+- note: camera view axis vs WASD (day 34)
