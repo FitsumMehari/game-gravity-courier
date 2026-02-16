@@ -268,3 +268,4 @@
 - balance: pickup bob along worldUp (day 34)
 - debug: ground probe vs tilted up (day 34)
 - ui: replay localStorage key (day 34)
+- note: level half extents collision (day 34)
