@@ -276,3 +276,4 @@
 - ui: Pages workflow branch (day 35)
 - debug: pointer lock + pause (day 35)
 - playtest: stress bar HUD timing (day 35)
+- ui: coyote jump window (day 35)
