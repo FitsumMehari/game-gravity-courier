@@ -274,3 +274,4 @@
 - balance: replay localStorage key (day 35)
 - note: third-person camera distance (day 35)
 - ui: Pages workflow branch (day 35)
+- debug: pointer lock + pause (day 35)
