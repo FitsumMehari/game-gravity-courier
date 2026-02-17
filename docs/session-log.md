@@ -277,3 +277,4 @@
 - debug: pointer lock + pause (day 35)
 - playtest: stress bar HUD timing (day 35)
 - ui: coyote jump window (day 35)
+- polish: gravity lock roof tint (day 35)
