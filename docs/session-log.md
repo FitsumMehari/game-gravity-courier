@@ -285,3 +285,4 @@
 - refactor: click gravity ray pick (day 36)
 - test: spawn slab ray resolve (day 36)
 - wip: strafe handedness fix (day 36)
+- perf: stress bar HUD timing (day 36)
