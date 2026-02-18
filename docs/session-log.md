@@ -280,3 +280,4 @@
 - polish: gravity lock roof tint (day 35)
 - refactor: delivery ring visibility (day 35)
 - wip: delivery ring visibility (day 36)
+- note: stress bar HUD timing (day 36)
