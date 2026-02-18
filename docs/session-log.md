@@ -282,3 +282,4 @@
 - wip: delivery ring visibility (day 36)
 - note: stress bar HUD timing (day 36)
 - note: package stress jolt curve (day 36)
+- refactor: click gravity ray pick (day 36)
