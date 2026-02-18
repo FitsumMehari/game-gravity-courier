@@ -279,3 +279,4 @@
 - ui: coyote jump window (day 35)
 - polish: gravity lock roof tint (day 35)
 - refactor: delivery ring visibility (day 35)
+- wip: delivery ring visibility (day 36)
