@@ -292,3 +292,4 @@
 - perf: pointer lock + pause (day 37)
 - debug: pointer lock + pause (day 37)
 - test: strafe handedness fix (day 37)
+- wip: camera view axis vs WASD (day 37)
