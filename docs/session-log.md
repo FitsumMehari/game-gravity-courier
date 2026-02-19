@@ -287,3 +287,4 @@
 - wip: strafe handedness fix (day 36)
 - perf: stress bar HUD timing (day 36)
 - playtest: package stress jolt curve (day 36)
+- debug: Pages workflow branch (day 37)
