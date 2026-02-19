@@ -295,3 +295,4 @@
 - wip: camera view axis vs WASD (day 37)
 - ui: gravity lock roof tint (day 37)
 - test: fall reset depth (day 37)
+- balance: stress bar HUD timing (day 37)
