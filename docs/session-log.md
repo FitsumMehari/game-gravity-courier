@@ -289,3 +289,4 @@
 - playtest: package stress jolt curve (day 36)
 - debug: Pages workflow branch (day 37)
 - refactor: strafe handedness fix (day 37)
+- perf: pointer lock + pause (day 37)
