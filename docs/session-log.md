@@ -288,3 +288,4 @@
 - perf: stress bar HUD timing (day 36)
 - playtest: package stress jolt curve (day 36)
 - debug: Pages workflow branch (day 37)
+- refactor: strafe handedness fix (day 37)
