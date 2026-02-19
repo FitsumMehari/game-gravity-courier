@@ -290,3 +290,4 @@
 - debug: Pages workflow branch (day 37)
 - refactor: strafe handedness fix (day 37)
 - perf: pointer lock + pause (day 37)
+- debug: pointer lock + pause (day 37)
