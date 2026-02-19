@@ -294,3 +294,4 @@
 - test: strafe handedness fix (day 37)
 - wip: camera view axis vs WASD (day 37)
 - ui: gravity lock roof tint (day 37)
+- test: fall reset depth (day 37)
