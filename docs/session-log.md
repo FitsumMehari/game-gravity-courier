@@ -291,3 +291,4 @@
 - refactor: strafe handedness fix (day 37)
 - perf: pointer lock + pause (day 37)
 - debug: pointer lock + pause (day 37)
+- test: strafe handedness fix (day 37)
