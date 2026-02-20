@@ -297,3 +297,4 @@
 - test: fall reset depth (day 37)
 - balance: stress bar HUD timing (day 37)
 - perf: Pages workflow branch (day 38)
+- debug: ACES tone map exposure (day 38)
