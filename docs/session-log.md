@@ -301,3 +301,4 @@
 - wip: Pages workflow branch (day 38)
 - balance: coyote jump window (day 38)
 - balance: ACES tone map exposure (day 38)
+- perf: third-person camera distance (day 38)
