@@ -299,3 +299,4 @@
 - perf: Pages workflow branch (day 38)
 - debug: ACES tone map exposure (day 38)
 - wip: Pages workflow branch (day 38)
+- balance: coyote jump window (day 38)
