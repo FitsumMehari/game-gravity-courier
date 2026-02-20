@@ -302,3 +302,4 @@
 - balance: coyote jump window (day 38)
 - balance: ACES tone map exposure (day 38)
 - perf: third-person camera distance (day 38)
+- test: spawn slab ray resolve (day 38)
