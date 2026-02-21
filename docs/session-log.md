@@ -308,3 +308,4 @@
 - test: strafe handedness fix (day 39)
 - perf: package stress jolt curve (day 39)
 - tweak: replay localStorage key (day 39)
+- perf: spawn slab ray resolve (day 39)
