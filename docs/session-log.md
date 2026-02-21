@@ -304,3 +304,4 @@
 - perf: third-person camera distance (day 38)
 - test: spawn slab ray resolve (day 38)
 - wip: movement basis pitch project (day 38)
+- polish: movement basis pitch project (day 39)
