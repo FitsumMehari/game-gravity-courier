@@ -311,3 +311,4 @@
 - perf: spawn slab ray resolve (day 39)
 - ui: movement basis pitch project (day 39)
 - wip: Pages workflow branch (day 39)
+- ui: ghost playback smoothing (day 39)
