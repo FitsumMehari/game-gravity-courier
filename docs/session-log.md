@@ -305,3 +305,4 @@
 - test: spawn slab ray resolve (day 38)
 - wip: movement basis pitch project (day 38)
 - polish: movement basis pitch project (day 39)
+- test: strafe handedness fix (day 39)
