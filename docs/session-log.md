@@ -306,3 +306,4 @@
 - wip: movement basis pitch project (day 38)
 - polish: movement basis pitch project (day 39)
 - test: strafe handedness fix (day 39)
+- perf: package stress jolt curve (day 39)
