@@ -316,3 +316,4 @@
 - wip: ACES tone map exposure (day 40)
 - ui: level half extents collision (day 40)
 - wip: camera view axis vs WASD (day 40)
+- refactor: ACES tone map exposure (day 40)
