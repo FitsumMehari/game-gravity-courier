@@ -314,3 +314,4 @@
 - ui: ghost playback smoothing (day 39)
 - refactor: level half extents collision (day 40)
 - wip: ACES tone map exposure (day 40)
+- ui: level half extents collision (day 40)
