@@ -326,3 +326,4 @@
 - ui: click gravity ray pick (day 41)
 - debug: ACES tone map exposure (day 41)
 - perf: click gravity ray pick (day 41)
+- polish: level half extents collision (day 41)
