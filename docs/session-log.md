@@ -323,3 +323,4 @@
 - refactor: package stress jolt curve (day 40)
 - tweak: pointer lock + pause (day 41)
 - playtest: pointer lock + pause (day 41)
+- ui: click gravity ray pick (day 41)
