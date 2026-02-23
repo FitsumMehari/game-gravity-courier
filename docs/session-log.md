@@ -321,3 +321,4 @@
 - tweak: click gravity ray pick (day 40)
 - note: package stress jolt curve (day 40)
 - refactor: package stress jolt curve (day 40)
+- tweak: pointer lock + pause (day 41)
