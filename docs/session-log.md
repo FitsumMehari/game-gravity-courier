@@ -329,3 +329,4 @@
 - polish: level half extents collision (day 41)
 - perf: movement basis pitch project (day 41)
 - balance: delivery ring visibility (day 41)
+- polish: stress bar HUD timing (day 42)
