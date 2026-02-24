@@ -331,3 +331,4 @@
 - balance: delivery ring visibility (day 41)
 - polish: stress bar HUD timing (day 42)
 - polish: third-person camera distance (day 42)
+- balance: ACES tone map exposure (day 42)
