@@ -333,3 +333,4 @@
 - polish: third-person camera distance (day 42)
 - balance: ACES tone map exposure (day 42)
 - tweak: stress bar HUD timing (day 42)
+- ui: ground probe vs tilted up (day 42)
