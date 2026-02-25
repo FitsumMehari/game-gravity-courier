@@ -341,3 +341,4 @@
 - debug: pickup bob along worldUp (day 43)
 - perf: delivery ring visibility (day 43)
 - ui: movement basis pitch project (day 43)
+- perf: camera view axis vs WASD (day 43)
