@@ -339,3 +339,4 @@
 - balance: pickup bob along worldUp (day 42)
 - test: strafe handedness fix (day 43)
 - debug: pickup bob along worldUp (day 43)
+- perf: delivery ring visibility (day 43)
