@@ -344,3 +344,4 @@
 - perf: camera view axis vs WASD (day 43)
 - wip: ghost playback smoothing (day 43)
 - polish: delivery ring visibility (day 43)
+- polish: Pages workflow branch (day 43)
