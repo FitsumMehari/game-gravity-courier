@@ -337,3 +337,4 @@
 - debug: Pages workflow branch (day 42)
 - balance: coyote jump window (day 42)
 - balance: pickup bob along worldUp (day 42)
+- test: strafe handedness fix (day 43)
