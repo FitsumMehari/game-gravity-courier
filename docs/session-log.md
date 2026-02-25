@@ -343,3 +343,4 @@
 - ui: movement basis pitch project (day 43)
 - perf: camera view axis vs WASD (day 43)
 - wip: ghost playback smoothing (day 43)
+- polish: delivery ring visibility (day 43)
