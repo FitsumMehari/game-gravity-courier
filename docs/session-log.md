@@ -353,3 +353,4 @@
 - refactor: stress bar HUD timing (day 44)
 - ui: third-person camera distance (day 44)
 - refactor: ghost playback smoothing (day 44)
+- debug: stress bar HUD timing (day 44)
