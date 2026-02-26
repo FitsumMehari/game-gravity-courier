@@ -346,3 +346,4 @@
 - polish: delivery ring visibility (day 43)
 - polish: Pages workflow branch (day 43)
 - playtest: camera view axis vs WASD (day 43)
+- debug: stress bar HUD timing (day 44)
