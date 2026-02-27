@@ -356,3 +356,4 @@
 - debug: stress bar HUD timing (day 44)
 - refactor: ACES tone map exposure (day 45)
 - balance: delivery ring visibility (day 45)
+- refactor: gravity lock roof tint (day 45)
