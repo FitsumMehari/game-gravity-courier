@@ -359,3 +359,4 @@
 - refactor: gravity lock roof tint (day 45)
 - balance: click gravity ray pick (day 45)
 - balance: camera view axis vs WASD (day 45)
+- refactor: pickup bob along worldUp (day 45)
