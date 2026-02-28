@@ -369,3 +369,4 @@
 - note: pointer lock + pause (day 46)
 - balance: replay localStorage key (day 46)
 - balance: replay localStorage key (day 46)
+- perf: replay localStorage key (day 46)
