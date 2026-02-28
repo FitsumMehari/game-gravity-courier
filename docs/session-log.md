@@ -363,3 +363,4 @@
 - note: strafe handedness fix (day 45)
 - playtest: delivery ring visibility (day 45)
 - note: camera view axis vs WASD (day 46)
+- ui: ghost playback smoothing (day 46)
