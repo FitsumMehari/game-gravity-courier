@@ -365,3 +365,4 @@
 - note: camera view axis vs WASD (day 46)
 - ui: ghost playback smoothing (day 46)
 - test: camera view axis vs WASD (day 46)
+- test: gravity lock roof tint (day 46)
