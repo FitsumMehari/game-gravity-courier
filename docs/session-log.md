@@ -362,3 +362,4 @@
 - refactor: pickup bob along worldUp (day 45)
 - note: strafe handedness fix (day 45)
 - playtest: delivery ring visibility (day 45)
+- note: camera view axis vs WASD (day 46)
