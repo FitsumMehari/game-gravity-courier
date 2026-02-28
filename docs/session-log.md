@@ -367,3 +367,4 @@
 - test: camera view axis vs WASD (day 46)
 - test: gravity lock roof tint (day 46)
 - note: pointer lock + pause (day 46)
+- balance: replay localStorage key (day 46)
