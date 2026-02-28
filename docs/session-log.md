@@ -370,3 +370,4 @@
 - balance: replay localStorage key (day 46)
 - balance: replay localStorage key (day 46)
 - perf: replay localStorage key (day 46)
+- refactor: spawn slab ray resolve (day 46)
