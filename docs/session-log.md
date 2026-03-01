@@ -374,3 +374,4 @@
 - test: fall reset depth (day 47)
 - test: third-person camera distance (day 47)
 - playtest: fall reset depth (day 47)
+- test: click gravity ray pick (day 47)
