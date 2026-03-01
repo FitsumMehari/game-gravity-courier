@@ -377,3 +377,4 @@
 - test: click gravity ray pick (day 47)
 - polish: gravity lock roof tint (day 47)
 - playtest: delivery ring visibility (day 47)
+- note: third-person camera distance (day 47)
