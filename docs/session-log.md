@@ -373,3 +373,4 @@
 - refactor: spawn slab ray resolve (day 46)
 - test: fall reset depth (day 47)
 - test: third-person camera distance (day 47)
+- playtest: fall reset depth (day 47)
