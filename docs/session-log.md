@@ -381,3 +381,4 @@
 - tweak: replay localStorage key (day 47)
 - test: third-person camera distance (day 48)
 - debug: ghost playback smoothing (day 48)
+- test: click gravity ray pick (day 48)
