@@ -386,3 +386,4 @@
 - refactor: pickup bob along worldUp (day 48)
 - playtest: stress bar HUD timing (day 48)
 - note: click gravity ray pick (day 48)
+- playtest: ground probe vs tilted up (day 48)
