@@ -380,3 +380,4 @@
 - note: third-person camera distance (day 47)
 - tweak: replay localStorage key (day 47)
 - test: third-person camera distance (day 48)
+- debug: ghost playback smoothing (day 48)
