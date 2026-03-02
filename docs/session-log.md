@@ -382,3 +382,4 @@
 - test: third-person camera distance (day 48)
 - debug: ghost playback smoothing (day 48)
 - test: click gravity ray pick (day 48)
+- debug: movement basis pitch project (day 48)
