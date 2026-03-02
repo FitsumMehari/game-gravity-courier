@@ -385,3 +385,4 @@
 - debug: movement basis pitch project (day 48)
 - refactor: pickup bob along worldUp (day 48)
 - playtest: stress bar HUD timing (day 48)
+- note: click gravity ray pick (day 48)
