@@ -383,3 +383,4 @@
 - debug: ghost playback smoothing (day 48)
 - test: click gravity ray pick (day 48)
 - debug: movement basis pitch project (day 48)
+- refactor: pickup bob along worldUp (day 48)
