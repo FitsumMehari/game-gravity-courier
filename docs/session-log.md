@@ -391,3 +391,4 @@
 - ui: ground probe vs tilted up (day 49)
 - tweak: replay localStorage key (day 49)
 - test: click gravity ray pick (day 49)
+- test: spawn slab ray resolve (day 49)
