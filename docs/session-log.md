@@ -390,3 +390,4 @@
 - wip: strafe handedness fix (day 49)
 - ui: ground probe vs tilted up (day 49)
 - tweak: replay localStorage key (day 49)
+- test: click gravity ray pick (day 49)
