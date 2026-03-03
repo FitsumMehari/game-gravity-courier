@@ -394,3 +394,4 @@
 - test: spawn slab ray resolve (day 49)
 - ui: click gravity ray pick (day 49)
 - test: coyote jump window (day 49)
+- perf: replay localStorage key (day 49)
