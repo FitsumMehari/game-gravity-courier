@@ -392,3 +392,4 @@
 - tweak: replay localStorage key (day 49)
 - test: click gravity ray pick (day 49)
 - test: spawn slab ray resolve (day 49)
+- ui: click gravity ray pick (day 49)
