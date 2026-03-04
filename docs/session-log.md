@@ -402,3 +402,4 @@
 - test: spawn slab ray resolve (day 50)
 - wip: stress bar HUD timing (day 50)
 - balance: click gravity ray pick (day 50)
+- playtest: level half extents collision (day 50)
