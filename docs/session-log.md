@@ -411,3 +411,4 @@
 - polish: stress bar HUD timing (day 51)
 - ui: level half extents collision (day 51)
 - refactor: ACES tone map exposure (day 51)
+- balance: package stress jolt curve (day 51)
