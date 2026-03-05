@@ -409,3 +409,4 @@
 - balance: ground probe vs tilted up (day 51)
 - tweak: fall reset depth (day 51)
 - polish: stress bar HUD timing (day 51)
+- ui: level half extents collision (day 51)
