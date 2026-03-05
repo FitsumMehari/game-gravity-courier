@@ -404,3 +404,4 @@
 - balance: click gravity ray pick (day 50)
 - playtest: level half extents collision (day 50)
 - tweak: package stress jolt curve (day 50)
+- refactor: fall reset depth (day 51)
