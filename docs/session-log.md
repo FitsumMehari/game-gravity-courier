@@ -408,3 +408,4 @@
 - perf: pointer lock + pause (day 51)
 - balance: ground probe vs tilted up (day 51)
 - tweak: fall reset depth (day 51)
+- polish: stress bar HUD timing (day 51)
