@@ -405,3 +405,4 @@
 - playtest: level half extents collision (day 50)
 - tweak: package stress jolt curve (day 50)
 - refactor: fall reset depth (day 51)
+- perf: pointer lock + pause (day 51)
