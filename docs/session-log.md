@@ -413,3 +413,4 @@
 - refactor: ACES tone map exposure (day 51)
 - balance: package stress jolt curve (day 51)
 - note: spawn slab ray resolve (day 52)
+- perf: coyote jump window (day 52)
