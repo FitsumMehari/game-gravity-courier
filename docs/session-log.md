@@ -412,3 +412,4 @@
 - ui: level half extents collision (day 51)
 - refactor: ACES tone map exposure (day 51)
 - balance: package stress jolt curve (day 51)
+- note: spawn slab ray resolve (day 52)
