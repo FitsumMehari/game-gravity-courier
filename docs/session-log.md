@@ -419,3 +419,4 @@
 - polish: pickup bob along worldUp (day 52)
 - wip: click gravity ray pick (day 52)
 - tweak: gravity lock roof tint (day 52)
+- playtest: level half extents collision (day 52)
