@@ -418,3 +418,4 @@
 - ui: click gravity ray pick (day 52)
 - polish: pickup bob along worldUp (day 52)
 - wip: click gravity ray pick (day 52)
+- tweak: gravity lock roof tint (day 52)
