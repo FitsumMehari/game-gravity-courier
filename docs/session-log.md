@@ -426,3 +426,4 @@
 - test: ACES tone map exposure (day 53)
 - ui: replay localStorage key (day 53)
 - polish: camera view axis vs WASD (day 53)
+- tweak: strafe handedness fix (day 53)
