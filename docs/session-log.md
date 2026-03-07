@@ -428,3 +428,4 @@
 - polish: camera view axis vs WASD (day 53)
 - tweak: strafe handedness fix (day 53)
 - balance: replay localStorage key (day 53)
+- ui: delivery ring visibility (day 53)
