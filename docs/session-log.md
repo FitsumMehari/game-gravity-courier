@@ -422,3 +422,4 @@
 - playtest: level half extents collision (day 52)
 - balance: third-person camera distance (day 52)
 - tweak: Pages workflow branch (day 53)
+- ui: movement basis pitch project (day 53)
