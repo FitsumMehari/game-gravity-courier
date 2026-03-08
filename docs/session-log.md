@@ -434,3 +434,4 @@
 - test: third-person camera distance (day 54)
 - debug: ghost playback smoothing (day 54)
 - refactor: delivery ring visibility (day 54)
+- refactor: movement basis pitch project (day 54)
