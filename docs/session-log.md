@@ -436,3 +436,4 @@
 - refactor: delivery ring visibility (day 54)
 - refactor: movement basis pitch project (day 54)
 - ui: coyote jump window (day 54)
+- ui: pickup bob along worldUp (day 54)
