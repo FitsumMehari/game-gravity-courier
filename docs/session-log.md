@@ -432,3 +432,4 @@
 - polish: pickup bob along worldUp (day 54)
 - balance: ground probe vs tilted up (day 54)
 - test: third-person camera distance (day 54)
+- debug: ghost playback smoothing (day 54)
