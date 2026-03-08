@@ -431,3 +431,4 @@
 - ui: delivery ring visibility (day 53)
 - polish: pickup bob along worldUp (day 54)
 - balance: ground probe vs tilted up (day 54)
+- test: third-person camera distance (day 54)
