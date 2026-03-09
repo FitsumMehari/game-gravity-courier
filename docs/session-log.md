@@ -445,3 +445,4 @@
 - polish: delivery ring visibility (day 55)
 - tweak: click gravity ray pick (day 55)
 - wip: coyote jump window (day 55)
+- debug: spawn slab ray resolve (day 55)
