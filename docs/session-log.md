@@ -443,3 +443,4 @@
 - tweak: fall reset depth (day 55)
 - debug: fall reset depth (day 55)
 - polish: delivery ring visibility (day 55)
+- tweak: click gravity ray pick (day 55)
