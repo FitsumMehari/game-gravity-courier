@@ -438,3 +438,4 @@
 - ui: coyote jump window (day 54)
 - ui: pickup bob along worldUp (day 54)
 - polish: movement basis pitch project (day 55)
+- refactor: ghost playback smoothing (day 55)
