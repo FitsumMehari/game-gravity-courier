@@ -450,3 +450,4 @@
 - tweak: strafe handedness fix (day 56)
 - note: delivery ring visibility (day 56)
 - balance: delivery ring visibility (day 56)
+- note: coyote jump window (day 56)
