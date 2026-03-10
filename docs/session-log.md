@@ -451,3 +451,4 @@
 - note: delivery ring visibility (day 56)
 - balance: delivery ring visibility (day 56)
 - note: coyote jump window (day 56)
+- debug: replay localStorage key (day 56)
