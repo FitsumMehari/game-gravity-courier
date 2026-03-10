@@ -448,3 +448,4 @@
 - debug: spawn slab ray resolve (day 55)
 - tweak: replay localStorage key (day 56)
 - tweak: strafe handedness fix (day 56)
+- note: delivery ring visibility (day 56)
