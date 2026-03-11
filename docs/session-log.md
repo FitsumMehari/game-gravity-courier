@@ -456,3 +456,4 @@
 - tweak: fall reset depth (day 56)
 - playtest: third-person camera distance (day 57)
 - debug: ghost playback smoothing (day 57)
+- debug: pickup bob along worldUp (day 57)
