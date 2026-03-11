@@ -455,3 +455,4 @@
 - playtest: Pages workflow branch (day 56)
 - tweak: fall reset depth (day 56)
 - playtest: third-person camera distance (day 57)
+- debug: ghost playback smoothing (day 57)
