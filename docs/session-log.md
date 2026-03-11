@@ -459,3 +459,4 @@
 - debug: pickup bob along worldUp (day 57)
 - wip: coyote jump window (day 57)
 - perf: third-person camera distance (day 57)
+- note: fall reset depth (day 57)
