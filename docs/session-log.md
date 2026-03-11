@@ -460,3 +460,4 @@
 - wip: coyote jump window (day 57)
 - perf: third-person camera distance (day 57)
 - note: fall reset depth (day 57)
+- debug: ghost playback smoothing (day 57)
