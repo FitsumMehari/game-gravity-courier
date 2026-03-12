@@ -462,3 +462,4 @@
 - note: fall reset depth (day 57)
 - debug: ghost playback smoothing (day 57)
 - wip: package stress jolt curve (day 57)
+- note: ground probe vs tilted up (day 58)
