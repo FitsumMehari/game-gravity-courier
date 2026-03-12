@@ -465,3 +465,4 @@
 - note: ground probe vs tilted up (day 58)
 - perf: third-person camera distance (day 58)
 - test: pickup bob along worldUp (day 58)
+- note: ground probe vs tilted up (day 58)
