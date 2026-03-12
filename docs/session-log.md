@@ -470,3 +470,4 @@
 - playtest: camera view axis vs WASD (day 58)
 - balance: click gravity ray pick (day 58)
 - note: spawn slab ray resolve (day 58)
+- balance: pickup bob along worldUp (day 58)
