@@ -469,3 +469,4 @@
 - perf: strafe handedness fix (day 58)
 - playtest: camera view axis vs WASD (day 58)
 - balance: click gravity ray pick (day 58)
+- note: spawn slab ray resolve (day 58)
