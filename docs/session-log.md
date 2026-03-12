@@ -468,3 +468,4 @@
 - note: ground probe vs tilted up (day 58)
 - perf: strafe handedness fix (day 58)
 - playtest: camera view axis vs WASD (day 58)
+- balance: click gravity ray pick (day 58)
