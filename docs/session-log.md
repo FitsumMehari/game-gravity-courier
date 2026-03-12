@@ -463,3 +463,4 @@
 - debug: ghost playback smoothing (day 57)
 - wip: package stress jolt curve (day 57)
 - note: ground probe vs tilted up (day 58)
+- perf: third-person camera distance (day 58)
