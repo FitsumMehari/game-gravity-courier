@@ -473,3 +473,4 @@
 - balance: pickup bob along worldUp (day 58)
 - refactor: Pages workflow branch (day 59)
 - test: camera view axis vs WASD (day 59)
+- note: ACES tone map exposure (day 59)
