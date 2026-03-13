@@ -477,3 +477,4 @@
 - tweak: click gravity ray pick (day 59)
 - perf: movement basis pitch project (day 59)
 - perf: spawn slab ray resolve (day 59)
+- debug: gravity lock roof tint (day 59)
