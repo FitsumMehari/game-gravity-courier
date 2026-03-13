@@ -472,3 +472,4 @@
 - note: spawn slab ray resolve (day 58)
 - balance: pickup bob along worldUp (day 58)
 - refactor: Pages workflow branch (day 59)
+- test: camera view axis vs WASD (day 59)
