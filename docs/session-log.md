@@ -476,3 +476,4 @@
 - note: ACES tone map exposure (day 59)
 - tweak: click gravity ray pick (day 59)
 - perf: movement basis pitch project (day 59)
+- perf: spawn slab ray resolve (day 59)
