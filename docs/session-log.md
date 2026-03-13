@@ -475,3 +475,4 @@
 - test: camera view axis vs WASD (day 59)
 - note: ACES tone map exposure (day 59)
 - tweak: click gravity ray pick (day 59)
+- perf: movement basis pitch project (day 59)
