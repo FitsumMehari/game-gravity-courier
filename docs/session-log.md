@@ -484,3 +484,4 @@
 - perf: coyote jump window (day 60)
 - note: spawn slab ray resolve (day 60)
 - refactor: gravity lock roof tint (day 60)
+- polish: click gravity ray pick (day 60)
