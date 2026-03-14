@@ -479,3 +479,4 @@
 - perf: spawn slab ray resolve (day 59)
 - debug: gravity lock roof tint (day 59)
 - note: level half extents collision (day 59)
+- note: spawn slab ray resolve (day 60)
