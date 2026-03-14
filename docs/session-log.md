@@ -486,3 +486,4 @@
 - refactor: gravity lock roof tint (day 60)
 - polish: click gravity ray pick (day 60)
 - perf: Pages workflow branch (day 60)
+- balance: package stress jolt curve (day 60)
