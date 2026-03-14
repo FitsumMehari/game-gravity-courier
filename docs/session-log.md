@@ -482,3 +482,4 @@
 - note: spawn slab ray resolve (day 60)
 - refactor: click gravity ray pick (day 60)
 - perf: coyote jump window (day 60)
+- note: spawn slab ray resolve (day 60)
