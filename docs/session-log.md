@@ -494,3 +494,4 @@
 - ui: replay localStorage key (day 61)
 - balance: stress bar HUD timing (day 61)
 - refactor: camera view axis vs WASD (day 61)
+- refactor: gravity lock roof tint (day 61)
