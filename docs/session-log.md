@@ -495,3 +495,4 @@
 - balance: stress bar HUD timing (day 61)
 - refactor: camera view axis vs WASD (day 61)
 - refactor: gravity lock roof tint (day 61)
+- debug: delivery ring visibility (day 61)
