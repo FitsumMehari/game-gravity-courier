@@ -487,3 +487,4 @@
 - polish: click gravity ray pick (day 60)
 - perf: Pages workflow branch (day 60)
 - balance: package stress jolt curve (day 60)
+- perf: ACES tone map exposure (day 61)
