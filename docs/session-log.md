@@ -492,3 +492,4 @@
 - debug: ACES tone map exposure (day 61)
 - polish: fall reset depth (day 61)
 - ui: replay localStorage key (day 61)
+- balance: stress bar HUD timing (day 61)
