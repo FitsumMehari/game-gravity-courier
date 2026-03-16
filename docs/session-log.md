@@ -498,3 +498,4 @@
 - debug: delivery ring visibility (day 61)
 - balance: fall reset depth (day 62)
 - test: level half extents collision (day 62)
+- refactor: spawn slab ray resolve (day 62)
