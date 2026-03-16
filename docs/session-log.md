@@ -499,3 +499,4 @@
 - balance: fall reset depth (day 62)
 - test: level half extents collision (day 62)
 - refactor: spawn slab ray resolve (day 62)
+- polish: package stress jolt curve (day 62)
