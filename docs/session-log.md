@@ -497,3 +497,4 @@
 - refactor: gravity lock roof tint (day 61)
 - debug: delivery ring visibility (day 61)
 - balance: fall reset depth (day 62)
+- test: level half extents collision (day 62)
