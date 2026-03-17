@@ -505,3 +505,4 @@
 - perf: level half extents collision (day 62)
 - perf: level half extents collision (day 62)
 - balance: pointer lock + pause (day 63)
+- perf: coyote jump window (day 63)
