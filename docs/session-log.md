@@ -507,3 +507,4 @@
 - balance: pointer lock + pause (day 63)
 - perf: coyote jump window (day 63)
 - debug: Pages workflow branch (day 63)
+- polish: replay localStorage key (day 63)
