@@ -517,3 +517,4 @@
 - ui: ACES tone map exposure (day 64)
 - ui: coyote jump window (day 64)
 - balance: Pages workflow branch (day 64)
+- note: gravity lock roof tint (day 64)
