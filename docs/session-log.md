@@ -515,3 +515,4 @@
 - perf: movement basis pitch project (day 64)
 - playtest: level half extents collision (day 64)
 - ui: ACES tone map exposure (day 64)
+- ui: coyote jump window (day 64)
