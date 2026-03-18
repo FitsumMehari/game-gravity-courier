@@ -513,3 +513,4 @@
 - balance: replay localStorage key (day 63)
 - wip: pickup bob along worldUp (day 63)
 - perf: movement basis pitch project (day 64)
+- playtest: level half extents collision (day 64)
