@@ -524,3 +524,4 @@
 - tweak: movement basis pitch project (day 65)
 - note: movement basis pitch project (day 65)
 - refactor: click gravity ray pick (day 65)
+- tweak: level half extents collision (day 65)
