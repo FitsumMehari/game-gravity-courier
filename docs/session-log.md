@@ -532,3 +532,4 @@
 - perf: ground probe vs tilted up (day 66)
 - polish: coyote jump window (day 66)
 - test: level half extents collision (day 66)
+- debug: third-person camera distance (day 66)
