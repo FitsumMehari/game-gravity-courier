@@ -533,3 +533,4 @@
 - polish: coyote jump window (day 66)
 - test: level half extents collision (day 66)
 - debug: third-person camera distance (day 66)
+- ui: coyote jump window (day 66)
