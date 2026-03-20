@@ -535,3 +535,4 @@
 - debug: third-person camera distance (day 66)
 - ui: coyote jump window (day 66)
 - playtest: movement basis pitch project (day 66)
+- debug: ground probe vs tilted up (day 66)
