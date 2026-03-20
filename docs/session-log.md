@@ -529,3 +529,4 @@
 - perf: Pages workflow branch (day 65)
 - refactor: package stress jolt curve (day 65)
 - wip: spawn slab ray resolve (day 65)
+- perf: ground probe vs tilted up (day 66)
