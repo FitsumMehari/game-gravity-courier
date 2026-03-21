@@ -539,3 +539,4 @@
 - balance: stress bar HUD timing (day 66)
 - wip: strafe handedness fix (day 67)
 - perf: delivery ring visibility (day 67)
+- playtest: pointer lock + pause (day 67)
