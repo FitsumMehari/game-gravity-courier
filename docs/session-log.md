@@ -545,3 +545,4 @@
 - debug: strafe handedness fix (day 67)
 - polish: ghost playback smoothing (day 67)
 - perf: gravity lock roof tint (day 67)
+- ui: delivery ring visibility (day 67)
