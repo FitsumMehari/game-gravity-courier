@@ -543,3 +543,4 @@
 - tweak: gravity lock roof tint (day 67)
 - wip: third-person camera distance (day 67)
 - debug: strafe handedness fix (day 67)
+- polish: ghost playback smoothing (day 67)
