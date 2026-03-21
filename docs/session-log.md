@@ -540,3 +540,4 @@
 - wip: strafe handedness fix (day 67)
 - perf: delivery ring visibility (day 67)
 - playtest: pointer lock + pause (day 67)
+- tweak: gravity lock roof tint (day 67)
