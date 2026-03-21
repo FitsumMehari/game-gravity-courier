@@ -537,3 +537,4 @@
 - playtest: movement basis pitch project (day 66)
 - debug: ground probe vs tilted up (day 66)
 - balance: stress bar HUD timing (day 66)
+- wip: strafe handedness fix (day 67)
