@@ -538,3 +538,4 @@
 - debug: ground probe vs tilted up (day 66)
 - balance: stress bar HUD timing (day 66)
 - wip: strafe handedness fix (day 67)
+- perf: delivery ring visibility (day 67)
