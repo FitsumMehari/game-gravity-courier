@@ -541,3 +541,4 @@
 - perf: delivery ring visibility (day 67)
 - playtest: pointer lock + pause (day 67)
 - tweak: gravity lock roof tint (day 67)
+- wip: third-person camera distance (day 67)
