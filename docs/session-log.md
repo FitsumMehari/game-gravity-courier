@@ -547,3 +547,4 @@
 - perf: gravity lock roof tint (day 67)
 - ui: delivery ring visibility (day 67)
 - refactor: ACES tone map exposure (day 68)
+- debug: pointer lock + pause (day 68)
