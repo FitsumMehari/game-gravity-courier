@@ -550,3 +550,4 @@
 - debug: pointer lock + pause (day 68)
 - balance: spawn slab ray resolve (day 68)
 - playtest: third-person camera distance (day 68)
+- playtest: stress bar HUD timing (day 68)
