@@ -548,3 +548,4 @@
 - ui: delivery ring visibility (day 67)
 - refactor: ACES tone map exposure (day 68)
 - debug: pointer lock + pause (day 68)
+- balance: spawn slab ray resolve (day 68)
