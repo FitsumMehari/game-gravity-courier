@@ -554,3 +554,4 @@
 - tweak: gravity lock roof tint (day 68)
 - wip: ghost playback smoothing (day 68)
 - wip: stress bar HUD timing (day 68)
+- wip: stress bar HUD timing (day 69)
