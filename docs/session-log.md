@@ -558,3 +558,4 @@
 - perf: level half extents collision (day 69)
 - polish: ground probe vs tilted up (day 69)
 - wip: ghost playback smoothing (day 69)
+- playtest: gravity lock roof tint (day 69)
