@@ -561,3 +561,4 @@
 - playtest: gravity lock roof tint (day 69)
 - playtest: ACES tone map exposure (day 69)
 - balance: strafe handedness fix (day 69)
+- playtest: stress bar HUD timing (day 69)
