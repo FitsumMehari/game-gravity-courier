@@ -560,3 +560,4 @@
 - wip: ghost playback smoothing (day 69)
 - playtest: gravity lock roof tint (day 69)
 - playtest: ACES tone map exposure (day 69)
+- balance: strafe handedness fix (day 69)
