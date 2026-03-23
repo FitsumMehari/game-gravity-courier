@@ -555,3 +555,4 @@
 - wip: ghost playback smoothing (day 68)
 - wip: stress bar HUD timing (day 68)
 - wip: stress bar HUD timing (day 69)
+- perf: level half extents collision (day 69)
