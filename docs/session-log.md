@@ -568,3 +568,4 @@
 - balance: ghost playback smoothing (day 70)
 - tweak: replay localStorage key (day 70)
 - balance: pointer lock + pause (day 70)
+- wip: Pages workflow branch (day 70)
