@@ -562,3 +562,4 @@
 - playtest: ACES tone map exposure (day 69)
 - balance: strafe handedness fix (day 69)
 - playtest: stress bar HUD timing (day 69)
+- tweak: spawn slab ray resolve (day 70)
