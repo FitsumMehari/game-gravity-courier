@@ -565,3 +565,4 @@
 - tweak: spawn slab ray resolve (day 70)
 - test: camera view axis vs WASD (day 70)
 - polish: ground probe vs tilted up (day 70)
+- balance: ghost playback smoothing (day 70)
