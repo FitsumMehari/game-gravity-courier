@@ -566,3 +566,4 @@
 - test: camera view axis vs WASD (day 70)
 - polish: ground probe vs tilted up (day 70)
 - balance: ghost playback smoothing (day 70)
+- tweak: replay localStorage key (day 70)
