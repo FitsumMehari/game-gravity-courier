@@ -578,3 +578,4 @@
 - tweak: click gravity ray pick (day 71)
 - tweak: fall reset depth (day 71)
 - note: fall reset depth (day 71)
+- ui: delivery ring visibility (day 71)
