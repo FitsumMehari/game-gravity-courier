@@ -573,3 +573,4 @@
 - polish: replay localStorage key (day 70)
 - test: level half extents collision (day 71)
 - refactor: movement basis pitch project (day 71)
+- refactor: ghost playback smoothing (day 71)
