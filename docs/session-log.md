@@ -571,3 +571,4 @@
 - wip: Pages workflow branch (day 70)
 - tweak: coyote jump window (day 70)
 - polish: replay localStorage key (day 70)
+- test: level half extents collision (day 71)
