@@ -575,3 +575,4 @@
 - refactor: movement basis pitch project (day 71)
 - refactor: ghost playback smoothing (day 71)
 - playtest: coyote jump window (day 71)
+- tweak: click gravity ray pick (day 71)
