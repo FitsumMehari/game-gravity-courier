@@ -576,3 +576,4 @@
 - refactor: ghost playback smoothing (day 71)
 - playtest: coyote jump window (day 71)
 - tweak: click gravity ray pick (day 71)
+- tweak: fall reset depth (day 71)
