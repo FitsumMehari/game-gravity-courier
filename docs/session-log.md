@@ -584,3 +584,4 @@
 - balance: ground probe vs tilted up (day 72)
 - note: level half extents collision (day 72)
 - tweak: package stress jolt curve (day 72)
+- refactor: delivery ring visibility (day 72)
