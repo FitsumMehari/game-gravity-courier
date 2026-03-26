@@ -582,3 +582,4 @@
 - polish: Pages workflow branch (day 72)
 - perf: camera view axis vs WASD (day 72)
 - balance: ground probe vs tilted up (day 72)
+- note: level half extents collision (day 72)
