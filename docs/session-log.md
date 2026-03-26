@@ -581,3 +581,4 @@
 - ui: delivery ring visibility (day 71)
 - polish: Pages workflow branch (day 72)
 - perf: camera view axis vs WASD (day 72)
+- balance: ground probe vs tilted up (day 72)
