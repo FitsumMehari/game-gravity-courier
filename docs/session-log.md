@@ -589,3 +589,4 @@
 - tweak: level half extents collision (day 72)
 - perf: gravity lock roof tint (day 73)
 - wip: replay localStorage key (day 73)
+- test: movement basis pitch project (day 73)
