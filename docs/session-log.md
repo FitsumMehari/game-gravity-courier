@@ -594,3 +594,4 @@
 - perf: ground probe vs tilted up (day 73)
 - perf: click gravity ray pick (day 73)
 - polish: pointer lock + pause (day 73)
+- ui: stress bar HUD timing (day 73)
