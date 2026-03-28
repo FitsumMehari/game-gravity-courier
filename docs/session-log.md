@@ -596,3 +596,4 @@
 - polish: pointer lock + pause (day 73)
 - ui: stress bar HUD timing (day 73)
 - tweak: level half extents collision (day 73)
+- note: strafe handedness fix (day 74)
