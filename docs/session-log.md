@@ -597,3 +597,4 @@
 - ui: stress bar HUD timing (day 73)
 - tweak: level half extents collision (day 73)
 - note: strafe handedness fix (day 74)
+- wip: gravity lock roof tint (day 74)
