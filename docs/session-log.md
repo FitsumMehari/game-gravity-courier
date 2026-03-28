@@ -599,3 +599,4 @@
 - note: strafe handedness fix (day 74)
 - wip: gravity lock roof tint (day 74)
 - balance: replay localStorage key (day 74)
+- refactor: movement basis pitch project (day 74)
