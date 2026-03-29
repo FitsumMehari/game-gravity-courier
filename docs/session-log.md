@@ -611,3 +611,4 @@
 - tweak: replay localStorage key (day 75)
 - test: replay localStorage key (day 75)
 - ui: ghost playback smoothing (day 75)
+- perf: strafe handedness fix (day 75)
