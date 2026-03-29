@@ -604,3 +604,4 @@
 - debug: click gravity ray pick (day 74)
 - perf: click gravity ray pick (day 74)
 - wip: click gravity ray pick (day 74)
+- note: ground probe vs tilted up (day 75)
