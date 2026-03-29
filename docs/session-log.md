@@ -606,3 +606,4 @@
 - wip: click gravity ray pick (day 74)
 - note: ground probe vs tilted up (day 75)
 - tweak: replay localStorage key (day 75)
+- wip: delivery ring visibility (day 75)
