@@ -614,3 +614,4 @@
 - perf: strafe handedness fix (day 75)
 - tweak: movement basis pitch project (day 76)
 - wip: click gravity ray pick (day 76)
+- test: fall reset depth (day 76)
