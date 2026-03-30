@@ -618,3 +618,4 @@
 - note: Pages workflow branch (day 76)
 - debug: ACES tone map exposure (day 76)
 - perf: click gravity ray pick (day 76)
+- ui: package stress jolt curve (day 76)
