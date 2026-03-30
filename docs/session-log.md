@@ -620,3 +620,4 @@
 - perf: click gravity ray pick (day 76)
 - ui: package stress jolt curve (day 76)
 - debug: third-person camera distance (day 76)
+- balance: gravity lock roof tint (day 76)
