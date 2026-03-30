@@ -613,3 +613,4 @@
 - ui: ghost playback smoothing (day 75)
 - perf: strafe handedness fix (day 75)
 - tweak: movement basis pitch project (day 76)
+- wip: click gravity ray pick (day 76)
