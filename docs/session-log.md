@@ -625,3 +625,4 @@
 - debug: ground probe vs tilted up (day 77)
 - playtest: package stress jolt curve (day 77)
 - debug: ghost playback smoothing (day 77)
+- note: coyote jump window (day 77)
