@@ -623,3 +623,4 @@
 - balance: gravity lock roof tint (day 76)
 - wip: replay localStorage key (day 77)
 - debug: ground probe vs tilted up (day 77)
+- playtest: package stress jolt curve (day 77)
