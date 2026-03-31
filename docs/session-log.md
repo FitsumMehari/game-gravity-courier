@@ -626,3 +626,4 @@
 - playtest: package stress jolt curve (day 77)
 - debug: ghost playback smoothing (day 77)
 - note: coyote jump window (day 77)
+- tweak: stress bar HUD timing (day 77)
