@@ -624,3 +624,4 @@
 - wip: replay localStorage key (day 77)
 - debug: ground probe vs tilted up (day 77)
 - playtest: package stress jolt curve (day 77)
+- debug: ghost playback smoothing (day 77)
