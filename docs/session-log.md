@@ -628,3 +628,4 @@
 - note: coyote jump window (day 77)
 - tweak: stress bar HUD timing (day 77)
 - refactor: pointer lock + pause (day 77)
+- tweak: coyote jump window (day 77)
