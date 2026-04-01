@@ -630,3 +630,4 @@
 - refactor: pointer lock + pause (day 77)
 - tweak: coyote jump window (day 77)
 - ui: stress bar HUD timing (day 78)
+- note: fall reset depth (day 78)
