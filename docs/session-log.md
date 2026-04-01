@@ -633,3 +633,4 @@
 - note: fall reset depth (day 78)
 - test: coyote jump window (day 78)
 - test: stress bar HUD timing (day 78)
+- test: ACES tone map exposure (day 78)
