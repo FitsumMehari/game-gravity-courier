@@ -635,3 +635,4 @@
 - test: stress bar HUD timing (day 78)
 - test: ACES tone map exposure (day 78)
 - ui: ground probe vs tilted up (day 78)
+- perf: package stress jolt curve (day 78)
