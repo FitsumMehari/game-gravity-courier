@@ -640,3 +640,4 @@
 - polish: ghost playback smoothing (day 79)
 - refactor: coyote jump window (day 79)
 - playtest: pickup bob along worldUp (day 79)
+- wip: camera view axis vs WASD (day 79)
