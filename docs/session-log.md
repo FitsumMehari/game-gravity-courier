@@ -639,3 +639,4 @@
 - note: camera view axis vs WASD (day 78)
 - polish: ghost playback smoothing (day 79)
 - refactor: coyote jump window (day 79)
+- playtest: pickup bob along worldUp (day 79)
