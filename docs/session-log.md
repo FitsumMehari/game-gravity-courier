@@ -638,3 +638,4 @@
 - perf: package stress jolt curve (day 78)
 - note: camera view axis vs WASD (day 78)
 - polish: ghost playback smoothing (day 79)
+- refactor: coyote jump window (day 79)
