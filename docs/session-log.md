@@ -642,3 +642,4 @@
 - playtest: pickup bob along worldUp (day 79)
 - wip: camera view axis vs WASD (day 79)
 - test: coyote jump window (day 79)
+- playtest: movement basis pitch project (day 79)
