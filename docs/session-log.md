@@ -644,3 +644,4 @@
 - test: coyote jump window (day 79)
 - playtest: movement basis pitch project (day 79)
 - note: level half extents collision (day 79)
+- debug: package stress jolt curve (day 79)
