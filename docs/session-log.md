@@ -643,3 +643,4 @@
 - wip: camera view axis vs WASD (day 79)
 - test: coyote jump window (day 79)
 - playtest: movement basis pitch project (day 79)
+- note: level half extents collision (day 79)
