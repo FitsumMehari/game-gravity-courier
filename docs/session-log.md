@@ -637,3 +637,4 @@
 - ui: ground probe vs tilted up (day 78)
 - perf: package stress jolt curve (day 78)
 - note: camera view axis vs WASD (day 78)
+- polish: ghost playback smoothing (day 79)
