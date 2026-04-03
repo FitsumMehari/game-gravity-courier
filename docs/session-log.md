@@ -647,3 +647,4 @@
 - debug: package stress jolt curve (day 79)
 - balance: movement basis pitch project (day 79)
 - note: movement basis pitch project (day 80)
+- playtest: ghost playback smoothing (day 80)
