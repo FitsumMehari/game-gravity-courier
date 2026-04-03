@@ -648,3 +648,4 @@
 - balance: movement basis pitch project (day 79)
 - note: movement basis pitch project (day 80)
 - playtest: ghost playback smoothing (day 80)
+- wip: ghost playback smoothing (day 80)
