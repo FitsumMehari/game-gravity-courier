@@ -653,3 +653,4 @@
 - polish: package stress jolt curve (day 80)
 - debug: coyote jump window (day 80)
 - tweak: Pages workflow branch (day 80)
+- wip: level half extents collision (day 80)
