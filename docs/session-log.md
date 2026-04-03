@@ -649,3 +649,4 @@
 - note: movement basis pitch project (day 80)
 - playtest: ghost playback smoothing (day 80)
 - wip: ghost playback smoothing (day 80)
+- playtest: pickup bob along worldUp (day 80)
