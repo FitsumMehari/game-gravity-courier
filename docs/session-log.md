@@ -661,3 +661,4 @@
 - wip: spawn slab ray resolve (day 81)
 - playtest: coyote jump window (day 81)
 - wip: stress bar HUD timing (day 81)
+- tweak: pickup bob along worldUp (day 81)
