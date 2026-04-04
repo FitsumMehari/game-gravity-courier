@@ -656,3 +656,4 @@
 - wip: level half extents collision (day 80)
 - tweak: third-person camera distance (day 81)
 - ui: ground probe vs tilted up (day 81)
+- perf: stress bar HUD timing (day 81)
