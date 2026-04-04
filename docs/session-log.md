@@ -658,3 +658,4 @@
 - ui: ground probe vs tilted up (day 81)
 - perf: stress bar HUD timing (day 81)
 - balance: ghost playback smoothing (day 81)
+- wip: spawn slab ray resolve (day 81)
