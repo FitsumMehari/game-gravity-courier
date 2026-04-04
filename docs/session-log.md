@@ -659,3 +659,4 @@
 - perf: stress bar HUD timing (day 81)
 - balance: ghost playback smoothing (day 81)
 - wip: spawn slab ray resolve (day 81)
+- playtest: coyote jump window (day 81)
