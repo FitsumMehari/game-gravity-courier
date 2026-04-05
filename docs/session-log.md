@@ -668,3 +668,4 @@
 - refactor: third-person camera distance (day 82)
 - polish: Pages workflow branch (day 82)
 - test: package stress jolt curve (day 82)
+- refactor: level half extents collision (day 82)
