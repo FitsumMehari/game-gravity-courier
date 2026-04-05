@@ -663,3 +663,4 @@
 - wip: stress bar HUD timing (day 81)
 - tweak: pickup bob along worldUp (day 81)
 - balance: package stress jolt curve (day 82)
+- polish: replay localStorage key (day 82)
