@@ -662,3 +662,4 @@
 - playtest: coyote jump window (day 81)
 - wip: stress bar HUD timing (day 81)
 - tweak: pickup bob along worldUp (day 81)
+- balance: package stress jolt curve (day 82)
