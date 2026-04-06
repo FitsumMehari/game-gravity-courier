@@ -677,3 +677,4 @@
 - refactor: replay localStorage key (day 83)
 - tweak: ground probe vs tilted up (day 83)
 - tweak: coyote jump window (day 83)
+- polish: level half extents collision (day 83)
