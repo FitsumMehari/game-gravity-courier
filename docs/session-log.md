@@ -678,3 +678,4 @@
 - tweak: ground probe vs tilted up (day 83)
 - tweak: coyote jump window (day 83)
 - polish: level half extents collision (day 83)
+- note: click gravity ray pick (day 83)
