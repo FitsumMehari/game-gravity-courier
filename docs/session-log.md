@@ -676,3 +676,4 @@
 - polish: camera view axis vs WASD (day 83)
 - refactor: replay localStorage key (day 83)
 - tweak: ground probe vs tilted up (day 83)
+- tweak: coyote jump window (day 83)
