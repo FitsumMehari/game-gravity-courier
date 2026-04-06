@@ -675,3 +675,4 @@
 - debug: delivery ring visibility (day 83)
 - polish: camera view axis vs WASD (day 83)
 - refactor: replay localStorage key (day 83)
+- tweak: ground probe vs tilted up (day 83)
