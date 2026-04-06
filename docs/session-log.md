@@ -671,3 +671,4 @@
 - refactor: level half extents collision (day 82)
 - ui: stress bar HUD timing (day 82)
 - debug: ground probe vs tilted up (day 82)
+- balance: package stress jolt curve (day 83)
