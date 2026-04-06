@@ -673,3 +673,4 @@
 - debug: ground probe vs tilted up (day 82)
 - balance: package stress jolt curve (day 83)
 - debug: delivery ring visibility (day 83)
+- polish: camera view axis vs WASD (day 83)
