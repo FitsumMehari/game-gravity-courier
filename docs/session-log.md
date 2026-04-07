@@ -681,3 +681,4 @@
 - note: click gravity ray pick (day 83)
 - test: camera view axis vs WASD (day 84)
 - playtest: delivery ring visibility (day 84)
+- polish: replay localStorage key (day 84)
