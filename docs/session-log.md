@@ -685,3 +685,4 @@
 - perf: package stress jolt curve (day 84)
 - refactor: Pages workflow branch (day 84)
 - tweak: strafe handedness fix (day 84)
+- polish: click gravity ray pick (day 84)
