@@ -680,3 +680,4 @@
 - polish: level half extents collision (day 83)
 - note: click gravity ray pick (day 83)
 - test: camera view axis vs WASD (day 84)
+- playtest: delivery ring visibility (day 84)
