@@ -682,3 +682,4 @@
 - test: camera view axis vs WASD (day 84)
 - playtest: delivery ring visibility (day 84)
 - polish: replay localStorage key (day 84)
+- perf: package stress jolt curve (day 84)
