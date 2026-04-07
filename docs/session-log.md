@@ -684,3 +684,4 @@
 - polish: replay localStorage key (day 84)
 - perf: package stress jolt curve (day 84)
 - refactor: Pages workflow branch (day 84)
+- tweak: strafe handedness fix (day 84)
