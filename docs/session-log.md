@@ -686,3 +686,4 @@
 - refactor: Pages workflow branch (day 84)
 - tweak: strafe handedness fix (day 84)
 - polish: click gravity ray pick (day 84)
+- wip: pickup bob along worldUp (day 84)
