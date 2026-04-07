@@ -679,3 +679,4 @@
 - tweak: coyote jump window (day 83)
 - polish: level half extents collision (day 83)
 - note: click gravity ray pick (day 83)
+- test: camera view axis vs WASD (day 84)
