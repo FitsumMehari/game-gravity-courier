@@ -690,3 +690,4 @@
 - test: ACES tone map exposure (day 85)
 - test: package stress jolt curve (day 85)
 - refactor: click gravity ray pick (day 85)
+- polish: pickup bob along worldUp (day 85)
