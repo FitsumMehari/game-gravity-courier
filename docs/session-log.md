@@ -694,3 +694,4 @@
 - perf: ACES tone map exposure (day 85)
 - ui: spawn slab ray resolve (day 85)
 - wip: package stress jolt curve (day 85)
+- note: strafe handedness fix (day 85)
