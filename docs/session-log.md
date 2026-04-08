@@ -692,3 +692,4 @@
 - refactor: click gravity ray pick (day 85)
 - polish: pickup bob along worldUp (day 85)
 - perf: ACES tone map exposure (day 85)
+- ui: spawn slab ray resolve (day 85)
