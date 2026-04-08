@@ -693,3 +693,4 @@
 - polish: pickup bob along worldUp (day 85)
 - perf: ACES tone map exposure (day 85)
 - ui: spawn slab ray resolve (day 85)
+- wip: package stress jolt curve (day 85)
