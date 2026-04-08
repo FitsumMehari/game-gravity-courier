@@ -695,3 +695,4 @@
 - ui: spawn slab ray resolve (day 85)
 - wip: package stress jolt curve (day 85)
 - note: strafe handedness fix (day 85)
+- debug: camera view axis vs WASD (day 85)
