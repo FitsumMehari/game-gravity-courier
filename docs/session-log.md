@@ -696,3 +696,4 @@
 - wip: package stress jolt curve (day 85)
 - note: strafe handedness fix (day 85)
 - debug: camera view axis vs WASD (day 85)
+- refactor: click gravity ray pick (day 86)
