@@ -701,3 +701,4 @@
 - debug: fall reset depth (day 86)
 - refactor: delivery ring visibility (day 86)
 - wip: movement basis pitch project (day 86)
+- balance: ghost playback smoothing (day 86)
