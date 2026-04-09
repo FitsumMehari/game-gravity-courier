@@ -703,3 +703,4 @@
 - wip: movement basis pitch project (day 86)
 - balance: ghost playback smoothing (day 86)
 - polish: stress bar HUD timing (day 86)
+- wip: gravity lock roof tint (day 86)
