@@ -699,3 +699,4 @@
 - refactor: click gravity ray pick (day 86)
 - debug: click gravity ray pick (day 86)
 - debug: fall reset depth (day 86)
+- refactor: delivery ring visibility (day 86)
