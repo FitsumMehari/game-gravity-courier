@@ -702,3 +702,4 @@
 - refactor: delivery ring visibility (day 86)
 - wip: movement basis pitch project (day 86)
 - balance: ghost playback smoothing (day 86)
+- polish: stress bar HUD timing (day 86)
