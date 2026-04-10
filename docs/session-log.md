@@ -705,3 +705,4 @@
 - polish: stress bar HUD timing (day 86)
 - wip: gravity lock roof tint (day 86)
 - test: Pages workflow branch (day 87)
+- balance: ACES tone map exposure (day 87)
