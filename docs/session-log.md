@@ -709,3 +709,4 @@
 - balance: Pages workflow branch (day 87)
 - note: click gravity ray pick (day 87)
 - note: coyote jump window (day 87)
+- wip: level half extents collision (day 87)
