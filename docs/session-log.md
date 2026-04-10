@@ -708,3 +708,4 @@
 - balance: ACES tone map exposure (day 87)
 - balance: Pages workflow branch (day 87)
 - note: click gravity ray pick (day 87)
+- note: coyote jump window (day 87)
