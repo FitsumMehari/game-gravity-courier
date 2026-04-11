@@ -716,3 +716,4 @@
 - note: third-person camera distance (day 88)
 - test: Pages workflow branch (day 88)
 - tweak: movement basis pitch project (day 88)
+- note: replay localStorage key (day 88)
