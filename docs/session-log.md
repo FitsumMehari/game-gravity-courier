@@ -715,3 +715,4 @@
 - balance: pointer lock + pause (day 88)
 - note: third-person camera distance (day 88)
 - test: Pages workflow branch (day 88)
+- tweak: movement basis pitch project (day 88)
