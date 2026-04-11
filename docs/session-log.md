@@ -712,3 +712,4 @@
 - wip: level half extents collision (day 87)
 - wip: pointer lock + pause (day 87)
 - polish: spawn slab ray resolve (day 87)
+- balance: pointer lock + pause (day 88)
