@@ -714,3 +714,4 @@
 - polish: spawn slab ray resolve (day 87)
 - balance: pointer lock + pause (day 88)
 - note: third-person camera distance (day 88)
+- test: Pages workflow branch (day 88)
