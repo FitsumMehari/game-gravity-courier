@@ -725,3 +725,4 @@
 - tweak: pickup bob along worldUp (day 89)
 - debug: ACES tone map exposure (day 89)
 - debug: fall reset depth (day 89)
+- polish: stress bar HUD timing (day 89)
