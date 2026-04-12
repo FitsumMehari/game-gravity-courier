@@ -727,3 +727,4 @@
 - debug: fall reset depth (day 89)
 - polish: stress bar HUD timing (day 89)
 - tweak: movement basis pitch project (day 89)
+- polish: third-person camera distance (day 89)
