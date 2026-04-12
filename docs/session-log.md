@@ -724,3 +724,4 @@
 - note: pointer lock + pause (day 89)
 - tweak: pickup bob along worldUp (day 89)
 - debug: ACES tone map exposure (day 89)
+- debug: fall reset depth (day 89)
