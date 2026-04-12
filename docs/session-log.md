@@ -726,3 +726,4 @@
 - debug: ACES tone map exposure (day 89)
 - debug: fall reset depth (day 89)
 - polish: stress bar HUD timing (day 89)
+- tweak: movement basis pitch project (day 89)
