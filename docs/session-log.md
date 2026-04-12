@@ -721,3 +721,4 @@
 - wip: movement basis pitch project (day 88)
 - wip: movement basis pitch project (day 88)
 - note: ACES tone map exposure (day 88)
+- note: pointer lock + pause (day 89)
