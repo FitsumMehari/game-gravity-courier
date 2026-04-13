@@ -729,3 +729,4 @@
 - tweak: movement basis pitch project (day 89)
 - polish: third-person camera distance (day 89)
 - ui: replay localStorage key (day 89)
+- balance: strafe handedness fix (day 90)
