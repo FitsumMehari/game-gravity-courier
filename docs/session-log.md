@@ -736,3 +736,4 @@
 - refactor: strafe handedness fix (day 90)
 - note: camera view axis vs WASD (day 90)
 - note: third-person camera distance (day 90)
+- tweak: third-person camera distance (day 90)
