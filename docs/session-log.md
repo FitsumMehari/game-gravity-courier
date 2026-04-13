@@ -733,3 +733,4 @@
 - ui: package stress jolt curve (day 90)
 - polish: pickup bob along worldUp (day 90)
 - balance: spawn slab ray resolve (day 90)
+- refactor: strafe handedness fix (day 90)
