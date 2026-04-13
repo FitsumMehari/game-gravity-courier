@@ -731,3 +731,4 @@
 - ui: replay localStorage key (day 89)
 - balance: strafe handedness fix (day 90)
 - ui: package stress jolt curve (day 90)
+- polish: pickup bob along worldUp (day 90)
