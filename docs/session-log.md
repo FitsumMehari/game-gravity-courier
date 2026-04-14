@@ -743,3 +743,4 @@
 - debug: pickup bob along worldUp (day 91)
 - note: spawn slab ray resolve (day 91)
 - balance: fall reset depth (day 91)
+- tweak: coyote jump window (day 91)
