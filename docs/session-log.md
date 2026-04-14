@@ -739,3 +739,4 @@
 - tweak: third-person camera distance (day 90)
 - polish: ground probe vs tilted up (day 91)
 - perf: fall reset depth (day 91)
+- perf: package stress jolt curve (day 91)
