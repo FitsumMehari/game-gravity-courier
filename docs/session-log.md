@@ -744,3 +744,4 @@
 - note: spawn slab ray resolve (day 91)
 - balance: fall reset depth (day 91)
 - tweak: coyote jump window (day 91)
+- balance: spawn slab ray resolve (day 91)
