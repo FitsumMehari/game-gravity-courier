@@ -740,3 +740,4 @@
 - polish: ground probe vs tilted up (day 91)
 - perf: fall reset depth (day 91)
 - perf: package stress jolt curve (day 91)
+- debug: pickup bob along worldUp (day 91)
