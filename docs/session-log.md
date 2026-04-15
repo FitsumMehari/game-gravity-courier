@@ -747,3 +747,4 @@
 - balance: spawn slab ray resolve (day 91)
 - tweak: ACES tone map exposure (day 91)
 - balance: coyote jump window (day 92)
+- perf: click gravity ray pick (day 92)
