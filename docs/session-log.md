@@ -750,3 +750,4 @@
 - perf: click gravity ray pick (day 92)
 - refactor: pickup bob along worldUp (day 92)
 - tweak: camera view axis vs WASD (day 92)
+- polish: stress bar HUD timing (day 92)
