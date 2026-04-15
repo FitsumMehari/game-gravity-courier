@@ -749,3 +749,4 @@
 - balance: coyote jump window (day 92)
 - perf: click gravity ray pick (day 92)
 - refactor: pickup bob along worldUp (day 92)
+- tweak: camera view axis vs WASD (day 92)
