@@ -752,3 +752,4 @@
 - tweak: camera view axis vs WASD (day 92)
 - polish: stress bar HUD timing (day 92)
 - playtest: gravity lock roof tint (day 92)
+- playtest: pickup bob along worldUp (day 92)
