@@ -748,3 +748,4 @@
 - tweak: ACES tone map exposure (day 91)
 - balance: coyote jump window (day 92)
 - perf: click gravity ray pick (day 92)
+- refactor: pickup bob along worldUp (day 92)
