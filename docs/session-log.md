@@ -756,3 +756,4 @@
 - perf: package stress jolt curve (day 92)
 - debug: coyote jump window (day 93)
 - test: fall reset depth (day 93)
+- test: replay localStorage key (day 93)
