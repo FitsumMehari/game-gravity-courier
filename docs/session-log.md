@@ -761,3 +761,4 @@
 - tweak: movement basis pitch project (day 93)
 - polish: ground probe vs tilted up (day 93)
 - playtest: movement basis pitch project (day 93)
+- debug: delivery ring visibility (day 93)
