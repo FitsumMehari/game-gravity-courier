@@ -754,3 +754,4 @@
 - playtest: gravity lock roof tint (day 92)
 - playtest: pickup bob along worldUp (day 92)
 - perf: package stress jolt curve (day 92)
+- debug: coyote jump window (day 93)
