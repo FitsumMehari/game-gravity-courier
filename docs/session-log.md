@@ -769,3 +769,4 @@
 - tweak: ghost playback smoothing (day 94)
 - balance: package stress jolt curve (day 94)
 - wip: third-person camera distance (day 94)
+- wip: movement basis pitch project (day 94)
