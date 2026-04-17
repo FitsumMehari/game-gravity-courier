@@ -766,3 +766,4 @@
 - note: spawn slab ray resolve (day 94)
 - balance: fall reset depth (day 94)
 - note: package stress jolt curve (day 94)
+- tweak: ghost playback smoothing (day 94)
