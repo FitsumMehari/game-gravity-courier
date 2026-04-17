@@ -763,3 +763,4 @@
 - playtest: movement basis pitch project (day 93)
 - debug: delivery ring visibility (day 93)
 - refactor: pointer lock + pause (day 94)
+- note: spawn slab ray resolve (day 94)
