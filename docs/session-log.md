@@ -767,3 +767,4 @@
 - balance: fall reset depth (day 94)
 - note: package stress jolt curve (day 94)
 - tweak: ghost playback smoothing (day 94)
+- balance: package stress jolt curve (day 94)
