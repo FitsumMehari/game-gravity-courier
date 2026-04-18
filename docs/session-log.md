@@ -773,3 +773,4 @@
 - ui: ghost playback smoothing (day 94)
 - note: pointer lock + pause (day 95)
 - refactor: coyote jump window (day 95)
+- ui: ghost playback smoothing (day 95)
