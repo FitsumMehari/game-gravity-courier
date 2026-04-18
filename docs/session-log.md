@@ -772,3 +772,4 @@
 - wip: movement basis pitch project (day 94)
 - ui: ghost playback smoothing (day 94)
 - note: pointer lock + pause (day 95)
+- refactor: coyote jump window (day 95)
