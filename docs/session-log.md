@@ -777,3 +777,4 @@
 - debug: ground probe vs tilted up (day 95)
 - tweak: gravity lock roof tint (day 95)
 - ui: click gravity ray pick (day 95)
+- perf: stress bar HUD timing (day 95)
