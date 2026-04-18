@@ -775,3 +775,4 @@
 - refactor: coyote jump window (day 95)
 - ui: ghost playback smoothing (day 95)
 - debug: ground probe vs tilted up (day 95)
+- tweak: gravity lock roof tint (day 95)
