@@ -771,3 +771,4 @@
 - wip: third-person camera distance (day 94)
 - wip: movement basis pitch project (day 94)
 - ui: ghost playback smoothing (day 94)
+- note: pointer lock + pause (day 95)
