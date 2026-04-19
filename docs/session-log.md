@@ -781,3 +781,4 @@
 - ui: click gravity ray pick (day 95)
 - wip: movement basis pitch project (day 96)
 - refactor: click gravity ray pick (day 96)
+- test: spawn slab ray resolve (day 96)
