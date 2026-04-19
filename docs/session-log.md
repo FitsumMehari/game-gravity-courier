@@ -784,3 +784,4 @@
 - test: spawn slab ray resolve (day 96)
 - ui: camera view axis vs WASD (day 96)
 - wip: gravity lock roof tint (day 96)
+- polish: strafe handedness fix (day 96)
