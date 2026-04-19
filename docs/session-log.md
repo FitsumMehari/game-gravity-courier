@@ -779,3 +779,4 @@
 - ui: click gravity ray pick (day 95)
 - perf: stress bar HUD timing (day 95)
 - ui: click gravity ray pick (day 95)
+- wip: movement basis pitch project (day 96)
