@@ -791,3 +791,4 @@
 - refactor: delivery ring visibility (day 97)
 - test: pickup bob along worldUp (day 97)
 - test: ACES tone map exposure (day 97)
+- polish: level half extents collision (day 97)
