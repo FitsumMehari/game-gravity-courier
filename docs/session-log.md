@@ -787,3 +787,4 @@
 - polish: strafe handedness fix (day 96)
 - ui: Pages workflow branch (day 96)
 - tweak: Pages workflow branch (day 96)
+- polish: third-person camera distance (day 97)
