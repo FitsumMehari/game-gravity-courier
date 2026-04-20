@@ -794,3 +794,4 @@
 - polish: level half extents collision (day 97)
 - note: strafe handedness fix (day 97)
 - debug: package stress jolt curve (day 97)
+- note: spawn slab ray resolve (day 97)
