@@ -795,3 +795,4 @@
 - note: strafe handedness fix (day 97)
 - debug: package stress jolt curve (day 97)
 - note: spawn slab ray resolve (day 97)
+- balance: movement basis pitch project (day 97)
