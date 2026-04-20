@@ -790,3 +790,4 @@
 - polish: third-person camera distance (day 97)
 - refactor: delivery ring visibility (day 97)
 - test: pickup bob along worldUp (day 97)
+- test: ACES tone map exposure (day 97)
