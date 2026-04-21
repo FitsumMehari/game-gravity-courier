@@ -803,3 +803,4 @@
 - polish: gravity lock roof tint (day 98)
 - perf: level half extents collision (day 98)
 - polish: pickup bob along worldUp (day 98)
+- debug: ground probe vs tilted up (day 98)
