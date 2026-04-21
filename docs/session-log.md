@@ -798,3 +798,4 @@
 - balance: movement basis pitch project (day 97)
 - perf: delivery ring visibility (day 98)
 - tweak: spawn slab ray resolve (day 98)
+- wip: pointer lock + pause (day 98)
