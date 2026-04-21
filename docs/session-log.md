@@ -797,3 +797,4 @@
 - note: spawn slab ray resolve (day 97)
 - balance: movement basis pitch project (day 97)
 - perf: delivery ring visibility (day 98)
+- tweak: spawn slab ray resolve (day 98)
