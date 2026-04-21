@@ -796,3 +796,4 @@
 - debug: package stress jolt curve (day 97)
 - note: spawn slab ray resolve (day 97)
 - balance: movement basis pitch project (day 97)
+- perf: delivery ring visibility (day 98)
