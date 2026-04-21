@@ -801,3 +801,4 @@
 - wip: pointer lock + pause (day 98)
 - tweak: delivery ring visibility (day 98)
 - polish: gravity lock roof tint (day 98)
+- perf: level half extents collision (day 98)
