@@ -799,3 +799,4 @@
 - perf: delivery ring visibility (day 98)
 - tweak: spawn slab ray resolve (day 98)
 - wip: pointer lock + pause (day 98)
+- tweak: delivery ring visibility (day 98)
