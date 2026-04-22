@@ -811,3 +811,4 @@
 - balance: level half extents collision (day 99)
 - wip: gravity lock roof tint (day 99)
 - wip: movement basis pitch project (day 99)
+- debug: third-person camera distance (day 99)
