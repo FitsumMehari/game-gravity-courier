@@ -806,3 +806,4 @@
 - debug: ground probe vs tilted up (day 98)
 - note: gravity lock roof tint (day 99)
 - note: ghost playback smoothing (day 99)
+- note: pickup bob along worldUp (day 99)
