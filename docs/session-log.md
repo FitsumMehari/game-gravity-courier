@@ -816,3 +816,4 @@
 - tweak: stress bar HUD timing (day 100)
 - tweak: pointer lock + pause (day 100)
 - polish: click gravity ray pick (day 100)
+- note: coyote jump window (day 100)
