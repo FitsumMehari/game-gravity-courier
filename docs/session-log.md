@@ -820,3 +820,4 @@
 - perf: third-person camera distance (day 100)
 - tweak: ground probe vs tilted up (day 100)
 - ui: fall reset depth (day 100)
+- note: pickup bob along worldUp (day 100)
