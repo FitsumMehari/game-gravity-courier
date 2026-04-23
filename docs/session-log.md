@@ -817,3 +817,4 @@
 - tweak: pointer lock + pause (day 100)
 - polish: click gravity ray pick (day 100)
 - note: coyote jump window (day 100)
+- perf: third-person camera distance (day 100)
