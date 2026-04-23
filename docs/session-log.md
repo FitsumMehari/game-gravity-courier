@@ -813,3 +813,4 @@
 - wip: movement basis pitch project (day 99)
 - debug: third-person camera distance (day 99)
 - ui: pickup bob along worldUp (day 100)
+- tweak: stress bar HUD timing (day 100)
