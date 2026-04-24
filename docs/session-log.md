@@ -822,3 +822,4 @@
 - ui: fall reset depth (day 100)
 - note: pickup bob along worldUp (day 100)
 - refactor: delivery ring visibility (day 101)
+- note: level half extents collision (day 101)
