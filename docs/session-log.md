@@ -826,3 +826,4 @@
 - perf: ground probe vs tilted up (day 101)
 - test: replay localStorage key (day 101)
 - refactor: spawn slab ray resolve (day 101)
+- perf: level half extents collision (day 101)
