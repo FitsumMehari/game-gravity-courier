@@ -824,3 +824,4 @@
 - refactor: delivery ring visibility (day 101)
 - note: level half extents collision (day 101)
 - perf: ground probe vs tilted up (day 101)
+- test: replay localStorage key (day 101)
