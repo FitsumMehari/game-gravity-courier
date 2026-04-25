@@ -833,3 +833,4 @@
 - wip: spawn slab ray resolve (day 102)
 - note: ACES tone map exposure (day 102)
 - wip: camera view axis vs WASD (day 102)
+- debug: ground probe vs tilted up (day 102)
