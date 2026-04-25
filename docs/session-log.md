@@ -836,3 +836,4 @@
 - debug: ground probe vs tilted up (day 102)
 - ui: coyote jump window (day 102)
 - perf: replay localStorage key (day 102)
+- perf: level half extents collision (day 102)
