@@ -829,3 +829,4 @@
 - perf: level half extents collision (day 101)
 - wip: click gravity ray pick (day 101)
 - balance: stress bar HUD timing (day 101)
+- perf: camera view axis vs WASD (day 102)
