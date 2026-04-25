@@ -830,3 +830,4 @@
 - wip: click gravity ray pick (day 101)
 - balance: stress bar HUD timing (day 101)
 - perf: camera view axis vs WASD (day 102)
+- wip: spawn slab ray resolve (day 102)
