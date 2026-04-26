@@ -844,3 +844,4 @@
 - test: ACES tone map exposure (day 103)
 - playtest: coyote jump window (day 103)
 - refactor: spawn slab ray resolve (day 103)
+- ui: level half extents collision (day 103)
