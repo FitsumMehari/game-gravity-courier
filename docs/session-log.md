@@ -840,3 +840,4 @@
 - perf: movement basis pitch project (day 103)
 - perf: gravity lock roof tint (day 103)
 - tweak: delivery ring visibility (day 103)
+- perf: strafe handedness fix (day 103)
