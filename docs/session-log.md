@@ -837,3 +837,4 @@
 - ui: coyote jump window (day 102)
 - perf: replay localStorage key (day 102)
 - perf: level half extents collision (day 102)
+- perf: movement basis pitch project (day 103)
