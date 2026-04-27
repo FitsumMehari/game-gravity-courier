@@ -846,3 +846,4 @@
 - refactor: spawn slab ray resolve (day 103)
 - ui: level half extents collision (day 103)
 - ui: Pages workflow branch (day 103)
+- perf: spawn slab ray resolve (day 104)
