@@ -852,3 +852,4 @@
 - refactor: stress bar HUD timing (day 104)
 - test: gravity lock roof tint (day 104)
 - ui: spawn slab ray resolve (day 104)
+- test: strafe handedness fix (day 104)
