@@ -847,3 +847,4 @@
 - ui: level half extents collision (day 103)
 - ui: Pages workflow branch (day 103)
 - perf: spawn slab ray resolve (day 104)
+- balance: ACES tone map exposure (day 104)
