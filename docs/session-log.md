@@ -853,3 +853,4 @@
 - test: gravity lock roof tint (day 104)
 - ui: spawn slab ray resolve (day 104)
 - test: strafe handedness fix (day 104)
+- note: coyote jump window (day 104)
