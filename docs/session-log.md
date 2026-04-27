@@ -849,3 +849,4 @@
 - perf: spawn slab ray resolve (day 104)
 - balance: ACES tone map exposure (day 104)
 - debug: ACES tone map exposure (day 104)
+- refactor: stress bar HUD timing (day 104)
