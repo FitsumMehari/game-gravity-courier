@@ -850,3 +850,4 @@
 - balance: ACES tone map exposure (day 104)
 - debug: ACES tone map exposure (day 104)
 - refactor: stress bar HUD timing (day 104)
+- test: gravity lock roof tint (day 104)
