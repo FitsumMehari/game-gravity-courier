@@ -860,3 +860,4 @@
 - test: Pages workflow branch (day 105)
 - tweak: pointer lock + pause (day 105)
 - test: delivery ring visibility (day 105)
+- test: third-person camera distance (day 105)
