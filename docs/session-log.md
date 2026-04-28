@@ -861,3 +861,4 @@
 - tweak: pointer lock + pause (day 105)
 - test: delivery ring visibility (day 105)
 - test: third-person camera distance (day 105)
+- note: gravity lock roof tint (day 105)
