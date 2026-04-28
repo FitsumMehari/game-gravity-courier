@@ -859,3 +859,4 @@
 - balance: fall reset depth (day 105)
 - test: Pages workflow branch (day 105)
 - tweak: pointer lock + pause (day 105)
+- test: delivery ring visibility (day 105)
