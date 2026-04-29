@@ -865,3 +865,4 @@
 - wip: ground probe vs tilted up (day 106)
 - perf: ground probe vs tilted up (day 106)
 - ui: package stress jolt curve (day 106)
+- debug: strafe handedness fix (day 106)
