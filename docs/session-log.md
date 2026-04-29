@@ -864,3 +864,4 @@
 - note: gravity lock roof tint (day 105)
 - wip: ground probe vs tilted up (day 106)
 - perf: ground probe vs tilted up (day 106)
+- ui: package stress jolt curve (day 106)
