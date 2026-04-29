@@ -867,3 +867,4 @@
 - ui: package stress jolt curve (day 106)
 - debug: strafe handedness fix (day 106)
 - playtest: stress bar HUD timing (day 106)
+- test: package stress jolt curve (day 106)
