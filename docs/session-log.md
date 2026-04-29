@@ -870,3 +870,4 @@
 - test: package stress jolt curve (day 106)
 - balance: ACES tone map exposure (day 106)
 - tweak: replay localStorage key (day 106)
+- test: level half extents collision (day 106)
