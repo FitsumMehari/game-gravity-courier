@@ -869,3 +869,4 @@
 - playtest: stress bar HUD timing (day 106)
 - test: package stress jolt curve (day 106)
 - balance: ACES tone map exposure (day 106)
+- tweak: replay localStorage key (day 106)
