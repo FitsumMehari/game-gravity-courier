@@ -862,3 +862,4 @@
 - test: delivery ring visibility (day 105)
 - test: third-person camera distance (day 105)
 - note: gravity lock roof tint (day 105)
+- wip: ground probe vs tilted up (day 106)
