@@ -872,3 +872,4 @@
 - tweak: replay localStorage key (day 106)
 - test: level half extents collision (day 106)
 - polish: pointer lock + pause (day 107)
+- polish: ghost playback smoothing (day 107)
