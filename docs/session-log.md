@@ -876,3 +876,4 @@
 - playtest: camera view axis vs WASD (day 107)
 - tweak: third-person camera distance (day 107)
 - wip: pointer lock + pause (day 107)
+- note: click gravity ray pick (day 107)
