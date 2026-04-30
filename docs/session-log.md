@@ -877,3 +877,4 @@
 - tweak: third-person camera distance (day 107)
 - wip: pointer lock + pause (day 107)
 - note: click gravity ray pick (day 107)
+- refactor: ghost playback smoothing (day 107)
