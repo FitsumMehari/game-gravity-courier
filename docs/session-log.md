@@ -885,3 +885,4 @@
 - ui: pickup bob along worldUp (day 108)
 - ui: delivery ring visibility (day 108)
 - balance: coyote jump window (day 108)
+- perf: ACES tone map exposure (day 108)
