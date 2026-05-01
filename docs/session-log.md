@@ -882,3 +882,4 @@
 - refactor: package stress jolt curve (day 108)
 - perf: pickup bob along worldUp (day 108)
 - refactor: pointer lock + pause (day 108)
+- ui: pickup bob along worldUp (day 108)
