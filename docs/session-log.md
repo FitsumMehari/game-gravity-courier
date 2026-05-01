@@ -880,3 +880,4 @@
 - refactor: ghost playback smoothing (day 107)
 - test: pickup bob along worldUp (day 107)
 - refactor: package stress jolt curve (day 108)
+- perf: pickup bob along worldUp (day 108)
