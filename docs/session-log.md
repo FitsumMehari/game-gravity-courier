@@ -884,3 +884,4 @@
 - refactor: pointer lock + pause (day 108)
 - ui: pickup bob along worldUp (day 108)
 - ui: delivery ring visibility (day 108)
+- balance: coyote jump window (day 108)
