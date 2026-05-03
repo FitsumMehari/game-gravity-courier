@@ -26,15 +26,9 @@ Output: `dist/`. Preview: `npm run preview`
 
 ## GitHub Pages
 
-The workflow builds and pushes `dist/` to the **`gh-pages` branch** (avoids the slow `deploy-pages` / `github-pages` environment queue).
+Same setup as the first game (Echo Maze): **Settings → Pages → Source: GitHub Actions**. Push to `main` runs `npm ci && npm run build` with `VITE_BASE=/<repo-name>/` and deploys `dist/` via the workflow.
 
-1. **Settings → Pages → Build and deployment**
-2. **Source:** **Deploy from a branch**
-3. **Branch:** `gh-pages` / **/** (root)
-
-Push to `main`; Actions runs `npm run build` with `VITE_BASE=/game-gravity-courier/` automatically.
-
-If Pages was set to **GitHub Actions** before, switch it to **branch `gh-pages`** as above so the new workflow actually publishes.
+If the repo was previously on the **`gh-pages` branch** source, switch Pages to **GitHub Actions** so this workflow is used.
 
 For a **custom domain**, set `base` in `vite.config.ts` to `'/'` and configure Pages accordingly.
 
